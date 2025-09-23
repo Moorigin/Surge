@@ -1,7 +1,7 @@
 # label: China
 # count: 600
 # build: merge_rules.py
-# generated: 2025-09-23T07:18:49.028525Z
+# generated: 2025-09-23T08:11:42.431198Z
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
