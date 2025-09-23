@@ -1,7 +1,7 @@
 # label: AI
 # count: 51
 # build: merge_rules.py
-# generated: 2025-09-23T09:44:29.869493Z
+# generated: 2025-09-23T12:05:48.435862Z
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
