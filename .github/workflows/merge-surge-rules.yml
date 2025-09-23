@@ -44,8 +44,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "$(git status --porcelain output)" ]; then
-            git add output
+          if [ -n "$(git status --porcelain rule)" ]; then
+            git add rule
             git commit -m "chore: update merged Surge lists [skip ci]"
             BRANCH=$(git branch --show-current)
             git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$BRANCH"
