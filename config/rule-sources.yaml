@@ -15,6 +15,10 @@ sources:
     strip_comments: true
     trim_inline_comments: true
   - label: "China"
+    url: "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list"
     strip_comments: true
     trim_inline_comments: true
