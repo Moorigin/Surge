@@ -12,7 +12,7 @@ from collections import OrderedDict, defaultdict
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config", "rule-sources.yaml")
-OUTPUT_DIR = os.path.join(REPO_ROOT, "output")
+OUTPUT_DIR = os.path.join(REPO_ROOT, "rule")
 
 COMMENT_LINE_RE = re.compile(r'^\s*#')
 INLINE_COMMENT_RE = re.compile(r'\s+#.*$')
