@@ -59,11 +59,24 @@ sources:
     strip_comments: true
     trim_inline_comments: true
 
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+    strip_comments: true
+    trim_inline_comments: true
+
 # 可选的全局开关
 options:
   sort: false                 # 是否对结果排序（默认 false：保持合并顺序）
   deduplicate: true           # 是否去重（默认 true，保持首次出现的顺序）
   normalize_whitespace: true  # 规整空白字符
   fail_on_missing: false      # 某个来源 404/路径不存在时是否报错失败（默认 false：跳过并告警）
-  delete_orphan_outputs: true # 清理 rule 目录里已无对应 label 的历史输出文件（默认 true）
+  delete_orphan_outputs: true # 清理 Rule 目录里已无对应 label 的历史输出文件（默认 true）
 
