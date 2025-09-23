@@ -13,7 +13,7 @@ from datetime import datetime
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config", "rule-sources.yaml")
-OUTPUT_DIR = os.path.join(REPO_ROOT, "rule")
+OUTPUT_DIR = os.path.join(REPO_ROOT, "Rule")
 
 COMMENT_LINE_RE = re.compile(r'^\s*#')
 INLINE_COMMENT_RE = re.compile(r'\s+#.*$')
