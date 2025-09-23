@@ -53,15 +53,3 @@ jobs:
             echo "No output changes."
           fi
 
-      - name: Commit & Push if changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ -n "$(git status --porcelain output)" ]; then
-            git add output
-            git commit -m "chore: update merged Surge lists [skip ci]"
-            BRANCH=$(git branch --show-current)
-            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$BRANCH"
-          else
-            echo "No output changes."
-          fi
