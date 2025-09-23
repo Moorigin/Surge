@@ -9,6 +9,7 @@ import hashlib
 import urllib.request
 from urllib.error import URLError, HTTPError
 from collections import OrderedDict, defaultdict
+from datetime import datetime
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 CONFIG_PATH = os.path.join(REPO_ROOT, "config", "rule-sources.yaml")
@@ -181,6 +182,7 @@ def main():
             f"# label: {label}",
             f"# count: {len(content_rules)}",
             f"# build: merge_rules.py",
+            f"# generated: {datetime.utcnow().isoformat()}Z",
             ""
         ]
         body = "\n".join(content_rules) + ("\n" if content_rules else "")
