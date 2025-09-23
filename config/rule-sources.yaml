@@ -2,7 +2,23 @@
 # 同一个 label 下的多个来源将按顺序合并，并去重
 sources:
   - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/12306/12306.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AliPay/AliPay.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BOC/BOC.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/CMB/CMB.list"
+  - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DouYin/DouYin.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UnionPay/UnionPay.list"
+  - label: "China"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list"
 
 # 可选的全局开关
 options:
