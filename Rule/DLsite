@@ -1,0 +1,11 @@
+#############################################
+# LANIAKEA Ruleset - DLsite Service
+# GitHub: https://github.com/Moorigin/Surge
+#
+# - DLsite
+##############################################
+# - DLsite
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-KEYWORD,dlsite
+################# END ########################
