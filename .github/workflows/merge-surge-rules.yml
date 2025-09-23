@@ -1,0 +1,71 @@
+name: Merge Surge Rules
+
+on:
+  schedule:
+    # 每天 18:00 UTC 运行（可按需调整；UTC 与你本地时区不同）
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "config/rule-sources.yaml"
+      - "scripts/merge_rules.py"
+      - ".github/workflows/merge-surge-rules.yml"
+
+permissions:
+  contents: write    # 允许推回 output
+
+concurrency:
+  group: merge-surge-rules
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false   # 我们用 token 推送
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Merge rules
+        run: |
+          python3 scripts/merge_rules.py
+
+      - name: Show changes
+        run: |
+          echo "=== output dir ==="
+          ls -l output || true
+          echo "=== git status ==="
+          git status --porcelain
+
+      - name: Commit & Push if changed
+        env:
+          GIT_AUTHOR_NAME: github-actions
+          GIT_AUTHOR_EMAIL: actions@github.com
+          GIT_COMMITTER_NAME: github-actions
+          GIT_COMMITTER_EMAIL: actions@github.com
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain output)" ]; then
+            git add output
+            git commit -m "chore: update merged Surge lists [skip ci]"
+            # 使用 GitHub CLI 推送更稳妥
+            git branch --show-current > /tmp/branch
+            BRANCH=$(cat /tmp/branch)
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$BRANCH"
+          else
+            echo "No output changes."
+          fi
+
+      - name: Upload artifact (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: surge-merged-lists
+          path: output/*.list
