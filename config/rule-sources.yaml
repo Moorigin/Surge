@@ -1,11 +1,23 @@
 # 每个条目就是一个来源（URL 或本地路径），并声明要合并到哪个 label
 # 同一个 label 下的多个来源将按顺序合并，并去重
 sources:
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "AI"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+    strip_comments: true
+    trim_inline_comments: true
+
   - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
-    strip_comments: true         # 可选：去掉以 # 开头的注释
-    trim_inline_comments: true   # 可选：去掉行内 # 注释
-    allow_types: ["DOMAIN","DOMAIN-SUFFIX","DOMAIN-KEYWORD","IP-CIDR","IP-CIDR6","GEOIP","IP-ASN","PROCESS-NAME","URL-REGEX"]
+    strip_comments: true
+    trim_inline_comments: true
   - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/12306/12306.list"
     strip_comments: true
@@ -56,19 +68,6 @@ sources:
     trim_inline_comments: true
   - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list"
-    strip_comments: true
-    trim_inline_comments: true
-
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
     strip_comments: true
     trim_inline_comments: true
 
