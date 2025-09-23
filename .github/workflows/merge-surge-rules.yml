@@ -32,7 +32,7 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install pyyaml
 
-      - name: Merge rules
+      - name: Merge Rules
         run: |
           python3 scripts/merge_rules.py
 
@@ -43,13 +43,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "$(git status --porcelain rule)" ]; then
-            git add rule
+          if [ -n "$(git status --porcelain Rule)" ]; then
+            git add Rule
             git commit -m "chore: update merged Surge lists [skip ci]"
             BRANCH=$(git branch --show-current)
             git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$BRANCH"
           else
-            echo "No changes in rule/"
+            echo "No changes in Rule/"
           fi
 
       - name: Upload artifact (optional)
@@ -57,4 +57,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: surge-merged-lists
-          path: rule/*.list
+          path: Rule/*.list
