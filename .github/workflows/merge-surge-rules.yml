@@ -27,7 +27,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 这里安装 PyYAML
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
@@ -50,6 +49,12 @@ jobs:
             BRANCH=$(git branch --show-current)
             git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" "$BRANCH"
           else
-            echo "No output changes."
+            echo "No changes in rule/"
           fi
 
+      - name: Upload artifact (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: surge-merged-lists
+          path: rule/*.list
