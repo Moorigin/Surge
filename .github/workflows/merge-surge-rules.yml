@@ -6,8 +6,8 @@ on:
   workflow_dispatch: {}
   push:
     paths:
-      - "config/rule-sources.yaml"
-      - "scripts/merge_rules.py"
+      - "Config/rule-sources.yaml"
+      - "Scripts/merge_rules.py"
       - ".github/workflows/merge-surge-rules.yml"
 
 permissions:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Merge Rules
         run: |
-          python3 scripts/merge_rules.py
+          python3 Scripts/merge_rules.py
 
       - name: Commit & Push if changed
         env:
