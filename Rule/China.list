@@ -1,7 +1,7 @@
 # label: China
-# count: 1591
+# count: 1625
 # build: merge_rules.py
-# generated: 2025-09-25T18:22:38.408241Z
+# generated: 2025-09-26T18:19:59.933931Z
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -70,6 +70,10 @@ DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,01058511989.com
 DOMAIN-SUFFIX,10000.gd.cn
+DOMAIN-SUFFIX,10010.cn
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,10010.com.cn
+DOMAIN-SUFFIX,10010.net
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,10086kuaixiu.com
 DOMAIN-SUFFIX,115.com
@@ -84,6 +88,7 @@ DOMAIN-SUFFIX,12530.com
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
+DOMAIN-SUFFIX,17wo.cn
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,189jk.cn
 DOMAIN-SUFFIX,189qas.com
@@ -312,6 +317,12 @@ DOMAIN-SUFFIX,chinatelecom.com.cn
 DOMAIN-SUFFIX,chinatelecom.net.cn
 DOMAIN-SUFFIX,chinatelecom.org.cn
 DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chinaunicom.cn
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinaunicom.com.cn
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicombidding.cn
+DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,chinaunionpay.com
 DOMAIN-SUFFIX,chinaunionpay.com.cn
 DOMAIN-SUFFIX,chinaunionpay.net
@@ -487,8 +498,12 @@ DOMAIN-SUFFIX,ctyuncdn.net
 DOMAIN-SUFFIX,ctzcdn.cn
 DOMAIN-SUFFIX,ctzcdn.com
 DOMAIN-SUFFIX,ctzcdn.net
+DOMAIN-SUFFIX,cu5gaia.cn
+DOMAIN-SUFFIX,cu5gaia.com
+DOMAIN-SUFFIX,cuecp.cn
 DOMAIN-SUFFIX,cup.com.cn
 DOMAIN-SUFFIX,cup62.cn
+DOMAIN-SUFFIX,cupb.cn
 DOMAIN-SUFFIX,cxyule.com
 DOMAIN-SUFFIX,cxzx10086.cn
 DOMAIN-SUFFIX,dailygn.com
@@ -589,6 +604,7 @@ DOMAIN-SUFFIX,dymusictape.com
 DOMAIN-SUFFIX,dymusicvideo.com
 DOMAIN-SUFFIX,dyshortvideo.com
 DOMAIN-SUFFIX,dyvideotape.com
+DOMAIN-SUFFIX,e-engine.com.cn
 DOMAIN-SUFFIX,ecom-lightapp.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
@@ -664,7 +680,10 @@ DOMAIN-SUFFIX,gaapqcloud.com
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.fun
 DOMAIN-SUFFIX,gcloudcs.com
+DOMAIN-SUFFIX,gd10010.cn
+DOMAIN-SUFFIX,gd116114.net.cn
 DOMAIN-SUFFIX,gd12349.com.cn
+DOMAIN-SUFFIX,gd165.com
 DOMAIN-SUFFIX,gdbnet.cn
 DOMAIN-SUFFIX,gddc.com.cn
 DOMAIN-SUFFIX,gdtel.com.cn
@@ -672,6 +691,7 @@ DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gitdrone.cn
 DOMAIN-SUFFIX,gmedev.cn
+DOMAIN-SUFFIX,gnoc.com.cn
 DOMAIN-SUFFIX,gogokid.com
 DOMAIN-SUFFIX,gogokid.com.cn
 DOMAIN-SUFFIX,goodluckcalendar.com
@@ -975,9 +995,11 @@ DOMAIN-SUFFIX,mqqurl.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mting.info
 DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,mucfc.com
 DOMAIN-SUFFIX,muyewx.com
 DOMAIN-SUFFIX,my-qcloud.com
 DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,mychinaunicom.com
 DOMAIN-SUFFIX,myelasticsearch.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myqcloud.net
@@ -1354,6 +1376,12 @@ DOMAIN-SUFFIX,ulikecam.mobi
 DOMAIN-SUFFIX,ulikecam.net
 DOMAIN-SUFFIX,um.run
 DOMAIN-SUFFIX,uncnn.cn
+DOMAIN-SUFFIX,unicomgd.com
+DOMAIN-SUFFIX,unicompayment.cn
+DOMAIN-SUFFIX,unicompayment.com
+DOMAIN-SUFFIX,unicompayment.net
+DOMAIN-SUFFIX,unicompayment.org
+DOMAIN-SUFFIX,unimip.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpayintl.cn
@@ -1408,9 +1436,14 @@ DOMAIN-SUFFIX,wework-studio.com
 DOMAIN-SUFFIX,wisefx.cn
 DOMAIN-SUFFIX,wisefx.com
 DOMAIN-SUFFIX,wnsqzonebk.com
+DOMAIN-SUFFIX,wo-link.tech
+DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,woa.com
 DOMAIN-SUFFIX,woaihuoshan.com
+DOMAIN-SUFFIX,wobaif.com
 DOMAIN-SUFFIX,wohst8.com
+DOMAIN-SUFFIX,wom186.com
 DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,wtturl.cn
 DOMAIN-SUFFIX,wukong.com
@@ -1521,6 +1554,7 @@ IP-CIDR,110.76.0.0/19,no-resolve
 IP-CIDR,110.76.48.0/20,no-resolve
 IP-CIDR,111.206.25.147/32,no-resolve
 IP-CIDR,112.125.0.0/17,no-resolve
+IP-CIDR,113.200.56.63/32,no-resolve
 IP-CIDR,114.246.10.65/32,no-resolve
 IP-CIDR,115.124.16.0/20,no-resolve
 IP-CIDR,116.251.64.0/18,no-resolve
