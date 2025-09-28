@@ -1,7 +1,7 @@
 # label: China
-# count: 1625
+# count: 1626
 # build: merge_rules.py
-# generated: 2025-09-26T18:19:59.933931Z
+# generated: 2025-09-28T07:07:53.566733Z
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -619,6 +619,7 @@ DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.com.cn
 DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,faceu.net
+DOMAIN-SUFFIX,fanqiecopyright.com
 DOMAIN-SUFFIX,fanqieopen.com
 DOMAIN-SUFFIX,fanqieopenpic.com
 DOMAIN-SUFFIX,fanqieopenstatic.com
