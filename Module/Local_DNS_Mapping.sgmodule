@@ -3,7 +3,7 @@
 #!desc=本地DNS映射
 
 [Host]
-RULE-SET:SYSTEM = server:system
+captive.apple.com = server:system
 *.moorigin.cn = server:223.5.5.5
 *.alicdn.com = server:223.5.5.5
 *.aliyun.com = server:223.5.5.5
