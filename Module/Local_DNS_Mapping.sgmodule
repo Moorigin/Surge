@@ -1,0 +1,16 @@
+#!name=Local DNS Mapping
+
+[Host]
+*.moorigin.cn = server:223.5.5.5
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.taobao.com = server:223.5.5.5
+*.jd.com = server:119.29.29.29
+*.qq.com = server:119.29.29.29
+*.weixin.com = server:119.29.29.29
+*.tencent.com = server:119.29.29.29
+*.douyin.com = server:180.184.1.1
+*.douyinpic.com = server:180.184.1.1
+*.douyinvod.com = server:180.184.1.1
+*.douyinstatic.com = server:180.184.1.1
+*.gov.cn = server:1.2.4.8
