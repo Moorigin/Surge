@@ -3,7 +3,6 @@
 #!desc = 本地DNS映射
 
 [Host]
-captive.apple.com = server:system
 *.moorigin.cn = server:223.5.5.5
 *.alicdn.com = server:223.5.5.5
 *.aliyun.com = server:223.5.5.5
@@ -17,3 +16,5 @@ captive.apple.com = server:system
 *.douyinvod.com = server:180.184.1.1
 *.douyinstatic.com = server:180.184.1.1
 *.gov.cn = server:1.2.4.8
+*.local = server:system
+captive.apple.com = server:system
