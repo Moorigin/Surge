@@ -1,6 +1,6 @@
-#!category=Moorigin
-#!name=Local DNS Mapping
-#!desc=本地DNS映射
+#!category = Moorigin
+#!name = Local DNS Mapping
+#!desc = 本地DNS映射
 
 [Host]
 captive.apple.com = server:system
