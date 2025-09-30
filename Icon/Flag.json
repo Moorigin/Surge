@@ -1,0 +1,46 @@
+{
+    "name": "Flag",
+    "description": "By Moorigin",
+    "icons": [
+        {
+            "name": "CHN",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/CHN.png"
+        },
+        {
+            "name": "EUR",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/EUR.png"
+        },
+        {
+            "name": "DEU",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/DEU.png"
+        },
+        {
+            "name": "HKG",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/HKG.png"
+        },
+        {
+            "name": "JPN",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/JPN.png"
+        },
+        {
+            "name": "KOR",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/KOR.png"
+        },
+        {
+            "name": "MAC",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/MAC.png"
+        },
+        {
+            "name": "SGP",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/SGP.png"
+        },
+        {
+            "name": "TWN",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/TWN.png"
+        },
+        {
+            "name": "USA",
+            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/USA.png"
+        }
+    ]
+}
