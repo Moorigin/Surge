@@ -3,7 +3,7 @@
 #!desc = 本地DNS映射
 
 [Host]
-*.moorigin.cn = server:223.5.5.5
+314610-moorigin.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
 *.alicdn.com = server:223.5.5.5
 *.aliyun.com = server:223.5.5.5
 *.taobao.com = server:223.5.5.5
