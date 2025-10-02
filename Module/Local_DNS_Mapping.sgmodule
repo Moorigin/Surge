@@ -18,3 +18,4 @@
 *.gov.cn = server:1.2.4.8
 *.local = server:system
 captive.apple.com = server:system
+gateway.icloud.com = server:system
