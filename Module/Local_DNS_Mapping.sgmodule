@@ -4,8 +4,8 @@
 
 [Host]
 314610-moorigin.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
-hk.moorigin.dev = 103.135.250.143
-us.moorigin.dev = 154.17.17.206
+hk.moorigin.dev = 103.135.250.143, 2403:18c0:4:34e:909e:bbff:fe0c:4fca
+us.moorigin.dev = 154.17.17.206, 2605:52c0:2:1443:a4e9:04ff:fedf:3bf4
 *.alicdn.com = server:223.5.5.5
 *.aliyun.com = server:223.5.5.5
 *.taobao.com = server:223.5.5.5
