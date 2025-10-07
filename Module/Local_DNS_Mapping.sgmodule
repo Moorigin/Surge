@@ -5,10 +5,10 @@
 [Host]
 # > Encrypted DNS
 314610-moorigin.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
-# > Custom HOSTS
+# > Custom Hosts
 hk.moorigin.dev = 103.135.250.143, 2403:18c0:4:34e:909e:bbff:fe0c:4fca
 us.moorigin.dev = 154.17.17.206, 2605:52c0:2:1443:a4e9:04ff:fedf:3bf4
-# > Ali
+# > Alibaba
 *.1688.com = server:223.5.5.5 // 1688
 *.taobao.com = server:223.5.5.5 // 淘宝
 *.tbcache.com = server:223.5.5.5 // 淘宝 缓存
@@ -39,7 +39,7 @@ upos-sz-upcdntx.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务
 *.douyinstatic.com = server:180.184.1.1 // 抖音 静态资源
 *.pstatp.com = server:180.184.1.1 // 抖音 静态资源
 *.iesdouyin.com = server:180.184.1.1 // 抖音 CDN
-*.ibytedapm.com = server:180.184.1.1 // 抖音 dapm
+*.ibytedapm.com = server:180.184.1.1 // 抖音 DAPM
 # > Gov
 *.gov.cn = server:1.2.4.8 // 中国政府网
 *.政务 = server:1.2.4.8 // 中国政府网
