@@ -1,6 +1,0 @@
-#!category = Moorigin
-#!name = Ponte Server
-#!desc = Ponte服务端配置
-
-[Ponte]
-server-proxy-name= PROXY
