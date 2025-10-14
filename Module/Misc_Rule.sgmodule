@@ -1,0 +1,14 @@
+#!category = Moorigin
+#!name = Misc Rule
+#!desc = 杂项规则分流
+
+[Rule]
+# - AI Gateway
+DOMAIN,gateway.ai.cloudflare.com,🇺🇸GIA
+# - Apple Intelligence
+DOMAIN,apple-relay.apple.com,🇺🇸GIA
+DOMAIN,apple-relay.cloudflare.com,🇺🇸GIA
+DOMAIN,apple-relay.fastly-edge.com,🇺🇸GIA
+DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
+# - OpenRouter
+DOMAIN-SUFFIX,openrouter.ai,🇺🇸GIA
