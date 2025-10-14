@@ -1,2 +1,6 @@
+#!category = Moorigin
+#!name = PonteClient
+#!desc = Ponte客户端配置
+
 [Ponte]
 client-proxy-name= PROXY
