@@ -42,6 +42,5 @@ upos-sz-upcdntx.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务
 *.政务 = server:1.2.4.8 // 中国政府网
 # > System
 *.local = server:system
-*.zte.home = server:system
 *.icloud.com = server:system
 captive.apple.com = server:system
