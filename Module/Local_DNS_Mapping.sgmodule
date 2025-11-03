@@ -5,6 +5,8 @@
 [Host]
 # > Encrypted DNS
 314610-moorigin.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
+# > RULE-SET
+RULE-SET:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list = server:https://dns.google/dns-query
 # > Alibaba
 *.1688.com = server:223.5.5.5 // 1688
 *.taobao.com = server:223.5.5.5 // 淘宝
