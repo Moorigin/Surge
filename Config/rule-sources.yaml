@@ -23,6 +23,10 @@ sources:
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
     strip_comments: true
     trim_inline_comments: true
+  - label: "America"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Twitter/Twitter.list"
+    strip_comments: true
+    trim_inline_comments: true
   # - China
   - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
