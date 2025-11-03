@@ -1,0 +1,6 @@
+#!category = Moorigin
+#!name = Always Real IP
+#!desc = 返回真实IP
+
+[General]
+always-real-ip = *netflix*, *nflx*, *onetrust.com, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
