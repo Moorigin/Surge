@@ -1,22 +1,26 @@
 # label: America
-# count: 40
+# count: 73
 # build: merge_rules.py
-# generated: 2025-11-02T18:04:50.217412Z
+# generated: 2025-11-03T11:54:49.121816Z
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,trae-api-sg.mchost.guru
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,ehwiki.org
 DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,ibytedtos.com
@@ -26,8 +30,12 @@ DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -39,6 +47,31 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
 IP-CIDR,178.175.128.0/21,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
 PROCESS-NAME,com.zhiliaoapp.musically
 USER-AGENT,TikTok*
