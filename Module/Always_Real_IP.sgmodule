@@ -3,4 +3,4 @@
 #!desc = 返回真实IP
 
 [General]
-always-real-ip = *netflix*, *nflx*, *onetrust.com, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
+always-real-ip = *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
