@@ -1,0 +1,6 @@
+#!category = Moorigin
+#!name = Skip Proxy
+#!desc = 跳过代理
+
+[General]
+skip-proxy = captive.apple.com, passenger.t3go.cn, *.ccb.com, wxh.wo.cn, *.abcchina.com, *.abcchina.com.cn
