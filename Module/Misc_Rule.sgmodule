@@ -20,6 +20,7 @@ DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸GIA
 # - IRIS
 DOMAIN-SUFFIX,irisnb.com,🇺🇸GIA
+DOMAIN-SUFFIX,5203166.xyz,🇺🇸GIA
 # - OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸GIA
 # - Perplexity
