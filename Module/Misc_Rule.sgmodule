@@ -19,6 +19,7 @@ DOMAIN,guzzoni.apple.com,🇺🇸GIA
 DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸GIA
 # - IRIS
+DOMAIN-SUFFIX,niceduck.lol,🇺🇸GIA
 DOMAIN-SUFFIX,irisnb.com,🇺🇸GIA
 DOMAIN-SUFFIX,5203166.xyz,🇺🇸GIA
 # - OpenRouter
