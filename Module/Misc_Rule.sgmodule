@@ -4,7 +4,6 @@
 
 [Rule]
 # - Encrypted DNS
-DOMAIN,314610-moorigin.alidns.com,DIRECT
 DOMAIN,cloudflare-dns.com,PROXY
 DOMAIN,dns.cloudflare.com,PROXY
 DOMAIN,dns.google,PROXY
