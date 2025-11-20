@@ -17,7 +17,10 @@ DOMAIN,apple-relay.apple.com,🇺🇸GIA
 DOMAIN,guzzoni.apple.com,🇺🇸GIA
 DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸GIA
-# - IRIS
+# - Gemini
+DOMAIN,alkalicore-pa.clients6.google.com,🇺🇸GIA
+DOMAIN-SUFFIX,geller-pa.googleapis.com,🇺🇸GIA
+# - Iris
 DOMAIN-SUFFIX,niceduck.lol,🇺🇸GIA
 DOMAIN-SUFFIX,irisnb.com,🇺🇸GIA
 DOMAIN-SUFFIX,5203166.xyz,🇺🇸GIA
