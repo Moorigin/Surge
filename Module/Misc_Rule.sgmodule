@@ -7,8 +7,8 @@
 DOMAIN,cloudflare-dns.com,PROXY
 DOMAIN,dns.cloudflare.com,PROXY
 DOMAIN,dns.google,PROXY
-# - AI Gateway
-DOMAIN,gateway.ai.cloudflare.com,🇺🇸GIA
+# - Antigravity
+DOMAIN,antigravity.google,🇺🇸GIA
 # - Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸GIA
 DOMAIN,apple-relay.cloudflare.com,🇺🇸GIA
@@ -17,15 +17,40 @@ DOMAIN,apple-relay.apple.com,🇺🇸GIA
 DOMAIN,guzzoni.apple.com,🇺🇸GIA
 DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸GIA
+# - Cloudflare AI Gateway
+DOMAIN,gateway.ai.cloudflare.com,🇺🇸GIA
+# - DeepMind
+DOMAIN-SUFFIX,deepmind.com,🇺🇸GIA
+DOMAIN-SUFFIX,deepmind.google,🇺🇸GIA
 # - Gemini
-DOMAIN,alkalicore-pa.clients6.google.com,🇺🇸GIA
+DOMAIN,aisandbox-pa.googleapis.com,🇺🇸GIA
+DOMAIN,robinfrontend-pa.googleapis.com,🇺🇸GIA
+DOMAIN-SUFFIX,bard.google.com,🇺🇸GIA
+DOMAIN-SUFFIX,gemini.google,🇺🇸GIA
+DOMAIN-SUFFIX,gemini.google.com,🇺🇸GIA
+# - Generative Language API
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com,🇺🇸GIA
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,🇺🇸GIA
 DOMAIN-SUFFIX,geller-pa.googleapis.com,🇺🇸GIA
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🇺🇸GIA
+# - Google AI Studio
+DOMAIN,ai.google.dev,🇺🇸GIA
+DOMAIN,alkalicore-pa.clients6.google.com,🇺🇸GIA
+DOMAIN-SUFFIX,aistudio.google.com,🇺🇸GIA
+DOMAIN-SUFFIX,generativeai.google,🇺🇸GIA
+DOMAIN-SUFFIX,makersuite.google.com,🇺🇸GIA
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,🇺🇸GIA
 # - Iris
 DOMAIN-SUFFIX,niceduck.lol,🇺🇸GIA
 DOMAIN-SUFFIX,irisnb.com,🇺🇸GIA
 DOMAIN-SUFFIX,5203166.xyz,🇺🇸GIA
+# - Jules
+DOMAIN,jules.google.com,🇺🇸GIA
 # - Magpie
 DOMAIN-SUFFIX,023168.xyz,🇺🇸GIA
+# - NotebookLM
+DOMAIN-SUFFIX,notebooklm.google,🇺🇸GIA
+DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸GIA
 # - OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸GIA
 # - Perplexity
