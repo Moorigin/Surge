@@ -100,11 +100,6 @@ sources:
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/UnionPay/UnionPay.list"
     strip_comments: true
     trim_inline_comments: true
-  # - Japan
-  - label: "Japan"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
-    strip_comments: true
-    trim_inline_comments: true
 
 # 可选的全局开关
 options:
