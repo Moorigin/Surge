@@ -7,6 +7,9 @@
 DOMAIN,cloudflare-dns.com,PROXY
 DOMAIN,dns.cloudflare.com,PROXY
 DOMAIN,dns.google,PROXY
+# - DLsite
+DOMAIN-SUFFIX,dlsite.com,MISC
+DOMAIN-KEYWORD,dlsite,MISC
 # - Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸GIA
 DOMAIN,apple-relay.cloudflare.com,🇺🇸GIA
