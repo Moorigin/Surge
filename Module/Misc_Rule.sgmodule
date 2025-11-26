@@ -1,6 +1,15 @@
 #!category = Moorigin
 #!name = Misc Rule
 #!desc = 杂项规则分流・2025-11-25
+# 
+# - PROXY
+#   - RULE-SET
+#   - DOMAIN
+#   - DOMAIN-SUFFIX
+#   - ...
+# - MISC
+# - 🇭🇰GIA
+# - 🇺🇸GIA
 
 [Rule]
 # - Encrypted DNS
