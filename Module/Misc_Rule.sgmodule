@@ -2,7 +2,6 @@
 #!name = Misc Rule
 #!desc = 杂项规则分流・2025-11-26
 #
-# - DIRECT
 # - PROXY
 #   - RULE-SET
 #   - DOMAIN
@@ -11,6 +10,7 @@
 # - MISC
 # - 🇭🇰GIA
 # - 🇺🇸GIA
+# - DIRECT
 
 [Rule]
 # - Encrypted DNS
