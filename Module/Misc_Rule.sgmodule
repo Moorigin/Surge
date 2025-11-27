@@ -14,8 +14,6 @@
 
 [Rule]
 # - Encrypted DNS
-DOMAIN,cloudflare-dns.com,PROXY
-DOMAIN,dns.cloudflare.com,PROXY
 DOMAIN,dns.google,PROXY
 # - DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,MISC
