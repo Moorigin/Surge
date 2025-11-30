@@ -20,6 +20,8 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # - DLsite
 DOMAIN-SUFFIX,dlsite.com,MISC
 DOMAIN-KEYWORD,dlsite,MISC
+# - AI
+RULE-SET,https://ruleset.skk.moe/List/non_ip/ai.conf,🇺🇸GIA
 # - Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸GIA
 DOMAIN,apple-relay.cloudflare.com,🇺🇸GIA
@@ -43,3 +45,5 @@ DOMAIN-SUFFIX,perplexity.ai,🇺🇸GIA
 DOMAIN-SUFFIX,pplx.ai,🇺🇸GIA
 # - Sora
 DOMAIN-SUFFIX,sora.com,🇺🇸GIA
+# - Magpie
+DOMAIN-SUFFIX,223789.xyz,DIRECT
