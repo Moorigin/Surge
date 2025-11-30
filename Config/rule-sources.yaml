@@ -1,19 +1,6 @@
 # 每个条目就是一个来源（URL 或本地路径），并声明要合并到哪个 label
 # 同一个 label 下的多个来源将按顺序合并，并去重
 sources:
-  # - AI
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "AI"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
-    strip_comments: true
-    trim_inline_comments: true
   # - America
   - label: "America"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list"
