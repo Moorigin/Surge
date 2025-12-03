@@ -43,4 +43,6 @@ upos-sz-upcdntx.bilivideo.com = server:119.29.29.29 // BiliBili upos视频服务
 # > System
 *.local = server:system
 *.icloud.com = server:system
+*.moorigin.cn = server:system
+*.moorigin.dev = server:system
 captive.apple.com = server:system
