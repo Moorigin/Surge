@@ -1,19 +1,10 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2025-11-30
-#
-# - PROXY
-#   - RULE-SET
-#   - DOMAIN
-#   - DOMAIN-SUFFIX
-#   - ...
-# - MISC
-# - 🇭🇰GIA
-# - 🇺🇸GIA
-# - DIRECT
+#!desc = 杂项规则分流・2025-12-03
 
 [Rule]
 # - Encrypted DNS
+DOMAIN,314610-moorigin.alidns.com,DIRECT
 DOMAIN,dns.google,PROXY
 # - DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,MISC
