@@ -4,7 +4,6 @@
 
 [Rule]
 # - Encrypted DNS
-DOMAIN,314610-moorigin.alidns.com,DIRECT
 DOMAIN,dns.google,PROXY
 # - DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,MISC
