@@ -1,7 +1,7 @@
 # label: America
-# count: 124
+# count: 91
 # build: merge_rules.py
-# generated: 2025-12-04T18:06:01.127834Z
+# generated: 2025-12-05T09:55:23.448212Z
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
@@ -23,8 +23,6 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,tiktok
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,anthropic.com
@@ -41,7 +39,6 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,e-hentai.org
@@ -52,7 +49,6 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-SUFFIX,host.livekit.cloud
@@ -73,16 +69,12 @@ DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
@@ -95,34 +87,9 @@ DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.org
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitterflightschool.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterstat.us
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,twttr.net
-DOMAIN-SUFFIX,twvid.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,x.com
 IP-ASN,20473,no-resolve
 IP-CIDR,178.175.128.0/21,no-resolve
-IP-CIDR,192.133.76.0/22,no-resolve
-IP-CIDR,199.59.148.0/22,no-resolve
-IP-CIDR,199.96.56.0/21,no-resolve
-IP-CIDR,202.160.128.0/22,no-resolve
-IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
-IP-CIDR,69.195.160.0/19,no-resolve
 PROCESS-NAME,com.zhiliaoapp.musically
 USER-AGENT,TikTok*
