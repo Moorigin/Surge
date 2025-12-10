@@ -9,22 +9,22 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 DOMAIN-SUFFIX,dlsite.com,MISC
 DOMAIN-KEYWORD,dlsite,MISC
 # - Apple Intelligence
-DOMAIN,cp4.cloudflare.com,🇺🇸GIA
-DOMAIN,apple-relay.cloudflare.com,🇺🇸GIA
-DOMAIN,apple-relay.fastly-edge.com,🇺🇸GIA
-DOMAIN,apple-relay.apple.com,🇺🇸GIA
-DOMAIN,guzzoni.apple.com,🇺🇸GIA
-DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸GIA
-DOMAIN-SUFFIX,smoot.apple.com,🇺🇸GIA
+DOMAIN,cp4.cloudflare.com,🇺🇸LAX
+DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX
+DOMAIN,apple-relay.fastly-edge.com,🇺🇸LAX
+DOMAIN,apple-relay.apple.com,🇺🇸LAX
+DOMAIN,guzzoni.apple.com,🇺🇸LAX
+DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸LAX
+DOMAIN-SUFFIX,smoot.apple.com,🇺🇸LAX
 # - Cloudflare AI Gateway
-DOMAIN,gateway.ai.cloudflare.com,🇺🇸GIA
+DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX
 # - Iris
-DOMAIN-SUFFIX,niceduck.lol,🇺🇸GIA
-DOMAIN-SUFFIX,irisnb.com,🇺🇸GIA
-DOMAIN-SUFFIX,5203166.xyz,🇺🇸GIA
+DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX
+DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX
+DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX
 # - Magpie
-DOMAIN-SUFFIX,023168.xyz,🇺🇸GIA
+DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
 # - OpenRouter
-DOMAIN-SUFFIX,openrouter.ai,🇺🇸GIA
+DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
 # - Sora
-DOMAIN-SUFFIX,sora.com,🇺🇸GIA
+DOMAIN-SUFFIX,sora.com,🇺🇸LAX
