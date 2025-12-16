@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Local DNS Mapping
-#!desc = 本地DNS映射・2025-12-08
+#!desc = 本地DNS映射・2025-12-16
 
 [Host]
 # > Alibaba
@@ -29,5 +29,7 @@
 *.政务 = server:system
 *.gov.cn = server:system
 *.local = server:system
+*.apple.com = server:system
 *.icloud.com = server:system
+*.networking.apple = server:system
 captive.apple.com = server:system
