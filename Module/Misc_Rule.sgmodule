@@ -4,10 +4,10 @@
 
 [Rule]
 # - DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,MISC
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,🇯🇵TYO
 # - DLsite
-DOMAIN-SUFFIX,dlsite.com,MISC
-DOMAIN-KEYWORD,dlsite,MISC
+DOMAIN-SUFFIX,dlsite.com,🇯🇵TYO
+DOMAIN-KEYWORD,dlsite,🇯🇵TYO
 # - Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸LAX
 DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX
