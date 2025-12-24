@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2025-12-16
+#!desc = 杂项规则分流・2025-12-24
 
 [Rule]
 # - Apple Intelligence
@@ -13,18 +13,39 @@ DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸LAX
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸LAX
 # - Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX
+# - Dify.AI
+DOMAIN-SUFFIX,dify.ai,🇺🇸LAX
+# - Gemini
+DOMAIN-SUFFIX,bard.google.com,🇺🇸LAX
+DOMAIN-SUFFIX,gemini.google,🇺🇸LAX
+DOMAIN-SUFFIX,gemini.google.com,🇺🇸LAX
+DOMAIN,aisandbox-pa.googleapis.com,🇺🇸LAX
+DOMAIN,robinfrontend-pa.googleapis.com,🇺🇸LAX
+# - GitHub Copilot
+DOMAIN,api.github.com,🇺🇸LAX
+# - Google AI Studio
+DOMAIN,ai.google.dev,🇺🇸LAX
+DOMAIN-SUFFIX,aistudio.google.com,🇺🇸LAX
+DOMAIN-SUFFIX,makersuite.google.com,🇺🇸LAX
+DOMAIN,alkalicore-pa.clients6.google.com,🇺🇸LAX
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,🇺🇸LAX
+DOMAIN-SUFFIX,generativeai.google,🇺🇸LAX
 # - Grok
 DOMAIN-SUFFIX,x.ai,🇺🇸LAX
 DOMAIN-SUFFIX,grok.com,🇺🇸LAX
-# - Iris
-DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX
-DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX
-DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX
+# - Groq
+DOMAIN-SUFFIX,groq.com,🇺🇸LAX
+# - JetBrains AI
+DOMAIN,api.jetbrains.ai,🇺🇸LAX
 # - Magpie
 DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
+# - Meta AI
+DOMAIN-SUFFIX,meta.ai,🇺🇸LAX
 # - OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
 # - Perplexity
 DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX
+# - Poe
+DOMAIN-SUFFIX,poe.com,🇺🇸LAX
 # - Sora
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX
