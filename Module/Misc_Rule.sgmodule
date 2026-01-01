@@ -5,8 +5,14 @@
 [Rule]
 # - IMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM
-# - AI
-RULE-SET,https://ruleset.skk.moe/List/non_ip/ai.conf,🇺🇸LAX
+# - Supercell
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,🇭🇰HKG
+# - Claude
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list,🇺🇸LAX
+# - Gemini
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list,🇺🇸LAX
+# - OpenAI
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX
 # - Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸LAX
 DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX
