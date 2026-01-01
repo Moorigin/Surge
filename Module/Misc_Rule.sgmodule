@@ -3,6 +3,8 @@
 #!desc = 杂项规则分流・2025-12-24
 
 [Rule]
+# - IMM
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM
 # - AI
 RULE-SET,https://ruleset.skk.moe/List/non_ip/ai.conf,🇺🇸LAX
 # - Apple Intelligence
