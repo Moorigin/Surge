@@ -22,6 +22,8 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🇺🇸LAX
 # OpenAI
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX
+# Android Studio
+DOMAIN,aida.googleapis.com,🇺🇸LAX
 # Antigravity
 DOMAIN,antigravity.google,🇺🇸LAX
 # Apple Intelligence
@@ -38,8 +40,13 @@ DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX
 DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX
 DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX
 DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX
+# Jules
+DOMAIN,jules.google.com,🇺🇸LAX
 # Magpie
 DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
+# NotebookLM
+DOMAIN-SUFFIX,notebooklm.google,🇺🇸LAX
+DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸LAX
 # OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
 # Perplexity
