@@ -3,19 +3,26 @@
 #!desc = 杂项规则分流・2025-12-24
 
 [Rule]
-# - DMM
+# >> IMM
+# DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM
-# - DLsite
+# DLsite
 DOMAIN-SUFFIX,dlsite.com,IMM
-# - Supercell
+
+# >> HKG
+# Supercell
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,🇭🇰HKG
-# - Claude
+
+# >> LAX
+# Claude
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list,🇺🇸LAX
-# - Gemini
+# Gemini
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list,🇺🇸LAX
-# - OpenAI
+# OpenAI
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX
-# - Apple Intelligence
+# Antigravity
+DOMAIN,antigravity.google
+# Apple Intelligence
 DOMAIN,cp4.cloudflare.com,🇺🇸LAX
 DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX
 DOMAIN,apple-relay.fastly-edge.com,🇺🇸LAX
@@ -23,17 +30,21 @@ DOMAIN,apple-relay.apple.com,🇺🇸LAX
 DOMAIN,guzzoni.apple.com,🇺🇸LAX
 DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸LAX
 DOMAIN-SUFFIX,smoot.apple.com,🇺🇸LAX
-# - Cloudflare AI Gateway
+# Cloudflare AI Gateway
 DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX
-# - Iris
+# Iris
 DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX
 DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX
 DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX
-# - Magpie
+# Magpie
 DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
-# - OpenRouter
+# OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
-# - Sora
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+# Sora
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX
-# - ImmTele
+
+# >> DIRECT
+# ImmTele
 DOMAIN-SUFFIX,prodigal4936.com,DIRECT
