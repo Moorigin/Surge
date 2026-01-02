@@ -1,14 +1,14 @@
 #!category = Moorigin
 #!name = Local DNS Mapping
-#!desc = 本地DNS映射・2025-12-16
+#!desc = 本地DNS映射・2026-01-02
 
 [Host]
-# > Alibaba
+# Alibaba
 *.1688.com = server:223.5.5.5 // 1688
 *.taobao.com = server:223.5.5.5 // 淘宝
 *.tbcache.com = server:223.5.5.5 // 淘宝 缓存
 *.tmall.com = server:223.5.5.5 // 天猫
-# > Tencent
+# Tencent
 *.qq.com = server:119.29.29.29 // QQ
 *.wechat.com = server:119.29.29.29 // WeChat
 *.weixin.qq.com = server:119.29.29.29 // 微信
@@ -17,7 +17,7 @@
 *.servicewechat.com = server:119.29.29.29 // 微信小程序
 *.weixinbridge.com = server:119.29.29.29 // 微信公众号
 *.tencent.com = server:119.29.29.29 // 腾讯
-# > Bytedance
+# Bytedance
 *.douyin.com = server:180.184.1.1 // 抖音
 *.douyinpic.com = server:180.184.1.1 // 抖音 静态资源
 *.douyinvod.com = server:180.184.1.1 // 抖音 静态资源
@@ -25,7 +25,7 @@
 *.pstatp.com = server:180.184.1.1 // 抖音 静态资源
 *.iesdouyin.com = server:180.184.1.1 // 抖音 CDN
 *.ibytedapm.com = server:180.184.1.1 // 抖音 DAPM
-# > System
+# System
 *.政务 = server:system
 *.gov.cn = server:system
 *.local = server:system
