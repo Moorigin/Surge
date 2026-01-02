@@ -3,12 +3,17 @@
 #!desc = 杂项规则分流・2026-01-02
 
 [Rule]
+# >> IMM
 # DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM
 # DLsite
 DOMAIN-SUFFIX,dlsite.com,IMM
+
+# >> HKG
 # Supercell
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,🇭🇰HKG
+
+# >> LAX
 # Claude
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list,🇺🇸LAX
 # Gemini
@@ -36,8 +41,10 @@ DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
 # OpenRouter
 DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
 # Perplexity
-DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX
 # Sora
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX
+
+# >> DIRECT
 # ImmTele
 DOMAIN-SUFFIX,prodigal4936.com,DIRECT
