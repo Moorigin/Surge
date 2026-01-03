@@ -5,66 +5,66 @@
 [Rule]
 # >> IMM
 # DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM,extended-matching
 # DLsite
-DOMAIN-SUFFIX,dlsite.com,IMM
+DOMAIN-SUFFIX,dlsite.com,IMM,extended-matching
 
 # >> HKG
 # Supercell
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,🇭🇰HKG
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,🇭🇰HKG,extended-matching
 
 # >> LAX
 # Claude
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list,🇺🇸LAX
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list,🇺🇸LAX,extended-matching
 # Gemini
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list,🇺🇸LAX
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list,🇺🇸LAX,extended-matching
 # Google
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🇺🇸LAX
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🇺🇸LAX,extended-matching
 # OpenAI
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX,extended-matching
 # Android Studio
-DOMAIN,aida.googleapis.com,🇺🇸LAX
+DOMAIN,aida.googleapis.com,🇺🇸LAX,extended-matching
 # Antigravity
-DOMAIN,antigravity.google,🇺🇸LAX
+DOMAIN,antigravity.google,🇺🇸LAX,extended-matching
 # Apple Intelligence
-DOMAIN,cp4.cloudflare.com,🇺🇸LAX
-DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX
-DOMAIN,apple-relay.fastly-edge.com,🇺🇸LAX
-DOMAIN,apple-relay.apple.com,🇺🇸LAX
-DOMAIN,guzzoni.apple.com,🇺🇸LAX
-DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸LAX
-DOMAIN-SUFFIX,smoot.apple.com,🇺🇸LAX
+DOMAIN,cp4.cloudflare.com,🇺🇸LAX,extended-matching
+DOMAIN,apple-relay.cloudflare.com,🇺🇸LAX,extended-matching
+DOMAIN,apple-relay.fastly-edge.com,🇺🇸LAX,extended-matching
+DOMAIN,apple-relay.apple.com,🇺🇸LAX,extended-matching
+DOMAIN,guzzoni.apple.com,🇺🇸LAX,extended-matching
+DOMAIN,gspe1-ssl.ls.apple.com,🇺🇸LAX,extended-matching
+DOMAIN-SUFFIX,smoot.apple.com,🇺🇸LAX,extended-matching
 # Cloudflare AI Gateway
-DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX
+DOMAIN,gateway.ai.cloudflare.com,🇺🇸LAX,extended-matching
 # Dify.AI
-DOMAIN-SUFFIX,dify.ai,🇺🇸LAX
+DOMAIN-SUFFIX,dify.ai,🇺🇸LAX,extended-matching
 # GitHub Copilot
-DOMAIN,api.github.com,🇺🇸LAX
+DOMAIN,api.github.com,🇺🇸LAX,extended-matching
 # Grok
-DOMAIN-SUFFIX,grok.com,🇺🇸LAX
-DOMAIN-SUFFIX,x.ai,🇺🇸LAX
+DOMAIN-SUFFIX,grok.com,🇺🇸LAX,extended-matching
+DOMAIN-SUFFIX,x.ai,🇺🇸LAX,extended-matching
 # Iris
-DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX
-DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX
-DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX
+DOMAIN-SUFFIX,niceduck.lol,🇺🇸LAX,extended-matching
+DOMAIN-SUFFIX,irisnb.com,🇺🇸LAX,extended-matching
+DOMAIN-SUFFIX,5203166.xyz,🇺🇸LAX,extended-matching
 # JetBrains AI
-DOMAIN,api.jetbrains.ai,🇺🇸LAX
+DOMAIN,api.jetbrains.ai,🇺🇸LAX,extended-matching
 # Jules
-DOMAIN,jules.google.com,🇺🇸LAX
+DOMAIN,jules.google.com,🇺🇸LAX,extended-matching
 # Magpie
-DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX
+DOMAIN-SUFFIX,023168.xyz,🇺🇸LAX,extended-matching
 # Meta AI
-DOMAIN-SUFFIX,meta.ai,🇺🇸LAX
+DOMAIN-SUFFIX,meta.ai,🇺🇸LAX,extended-matching
 # NotebookLM
-DOMAIN-SUFFIX,notebooklm.google,🇺🇸LAX
-DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸LAX
+DOMAIN-SUFFIX,notebooklm.google,🇺🇸LAX,extended-matching
+DOMAIN-SUFFIX,notebooklm.google.com,🇺🇸LAX,extended-matching
 # OpenRouter
-DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX
+DOMAIN-SUFFIX,openrouter.ai,🇺🇸LAX,extended-matching
 # Perplexity
-DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX
+DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX,extended-matching
 # Sora
-DOMAIN-SUFFIX,sora.com,🇺🇸LAX
+DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 
 # >> DIRECT
 # ImmTele
-DOMAIN-SUFFIX,prodigal4936.com,DIRECT
+DOMAIN-SUFFIX,prodigal4936.com,DIRECT,extended-matching
