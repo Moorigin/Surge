@@ -1,15 +1,6 @@
 # 每个条目就是一个来源（URL 或本地路径），并声明要合并到哪个 label
 # 同一个 label 下的多个来源将按顺序合并，并去重
 sources:
-  # - America
-  - label: "America"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EHGallery/EHGallery.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "America"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
-    strip_comments: true
-    trim_inline_comments: true
   # - China
   - label: "China"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
