@@ -22,12 +22,18 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list,🇺🇸LAX,extended-matching
 # Google
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list,🇺🇸LAX,extended-matching
+# GoogleFCM
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleFCM/GoogleFCM.list,🇺🇸LAX,extended-matching
 # Instagram
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list,🇺🇸LAX,extended-matching
 # OpenAI
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,🇺🇸LAX,extended-matching
 # TikTok
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list,🇺🇸LAX,extended-matching
+# YouTube
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list,🇺🇸LAX,extended-matching
+# YouTube
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list,🇺🇸LAX,extended-matching
 # Android Studio
 DOMAIN,aida.googleapis.com,🇺🇸LAX,extended-matching
 # Antigravity
