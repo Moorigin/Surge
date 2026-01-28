@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-01-27
+#!desc = 杂项规则分流・2026-01-28
 
 [Rule]
 # >> IMM
@@ -76,3 +76,9 @@ DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 DOMAIN-SUFFIX,prodigal4936.com,DIRECT,extended-matching
 # Magpie
 DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
+# M-Team
+DOMAIN-SUFFIX,m-team.cc,DIRECT,extended-matching
+DOMAIN-SUFFIX,m-team.io,DIRECT,extended-matching
+DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,manfuz.co,DIRECT,extended-matching
+DOMAIN-SUFFIX,holysalt.org,DIRECT,extended-matching
