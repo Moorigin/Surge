@@ -3,11 +3,11 @@
 #!desc = 杂项规则分流・2026-01-28
 
 [Rule]
-# >> IMM
+# >> DLER
 # DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,IMM,extended-matching
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,DLER,extended-matching
 # DLsite
-DOMAIN-SUFFIX,dlsite.com,IMM,extended-matching
+DOMAIN-SUFFIX,dlsite.com,DLER,extended-matching
 
 # >> HKG
 # Supercell
