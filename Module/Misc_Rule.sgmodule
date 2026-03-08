@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-03-03
+#!desc = 杂项规则分流・2026-03-08
 
 [Rule]
 # >> DLER
@@ -72,8 +72,8 @@ DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX,extended-matching
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 
 # >> DIRECT
-# ImmTele
-DOMAIN-SUFFIX,prodigal4936.com,DIRECT,extended-matching
+# ECMS
+DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
 # Magpie
 DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
 # M-Team
