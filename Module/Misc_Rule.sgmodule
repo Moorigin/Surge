@@ -66,12 +66,6 @@ DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX,extended-matching
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 
 # >> DIRECT
-# China
-RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/China.list,DIRECT,extended-matching
-# LAN
-RULE-SET,LAN,DIRECT
-# SYSTEM
-RULE-SET,SYSTEM,DIRECT
 # ECMS
 DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
 # Magpie
