@@ -1,13 +1,11 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-03-08
+#!desc = 杂项规则分流・2026-03-13
 
 [Rule]
 # >> DLER
-# DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,DLER,extended-matching
-# DLsite
-DOMAIN-SUFFIX,dlsite.com,DLER,extended-matching
+# Japan
+GEOIP,JP,DLER
 
 # >> HKG
 # Supercell
