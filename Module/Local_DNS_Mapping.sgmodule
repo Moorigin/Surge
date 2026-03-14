@@ -2,6 +2,10 @@
 #!name = Local DNS Mapping
 #!desc = 本地DNS映射・2026-01-02
 
+[General]
+# 通过代理请求使用本地DNS映射结果
+use-local-host-item-for-proxy = true
+
 [Host]
 # Alibaba
 *.1688.com = server:223.5.5.5 // 1688
@@ -32,4 +36,3 @@
 *.apple.com = server:system
 *.icloud.com = server:system
 *.networking.apple = server:system
-captive.apple.com = server:system
