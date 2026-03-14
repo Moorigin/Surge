@@ -3,7 +3,7 @@
 #!desc = 通用增强・2026-03-14
 
 [General]
-# 当 Surge VIF 处理 DNS 问题时，此选项要求 Surge 返回一个真正的 IP 地址，而不是一个假 IP 地址, DNS 数据包将被转发到上游 DNS 服务器.
+# 当Surge VIF处理DNS问题时,此选项要求Surge返回真正的IP地址,而不是一个假IP地址,DNS数据包将被转发到上游DNS服务器.
 always-real-ip = %APPEND% *.lan, *.direct, *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
 
 [MITM]
