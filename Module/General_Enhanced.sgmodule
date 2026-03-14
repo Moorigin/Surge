@@ -3,8 +3,11 @@
 #!desc = 通用增强・2026-03-14
 
 [General]
+# 跳过代理
+skip-proxy = %APPEND% captive.apple.com
+
 # 当Surge VIF处理DNS问题时,此选项要求Surge返回真正的IP地址,而不是一个假IP地址,DNS数据包将被转发到上游DNS服务器.
-always-real-ip = %APPEND% *.lan, *.direct, *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
+always-real-ip = %APPEND% *.lan, *.local, *.direct, localhost.*.qq.com, localhost.*.weixin.qq.com, *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
 
 [MITM]
 # 需要解密的域名
