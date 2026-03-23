@@ -22,7 +22,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list,🇺🇸LAX,extended-matching
 # YouTube
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list,🇺🇸LAX,extended-matching
-# YouTube
+# YouTube Music
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list,🇺🇸LAX,extended-matching
 # Android Studio
 DOMAIN,aida.googleapis.com,🇺🇸LAX,extended-matching
@@ -64,6 +64,21 @@ DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 # >> DIRECT
 # ECMS
 DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
+# HSBC
+DOMAIN-SUFFIX,hsbc,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbc.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbc.net,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcinnovationbanking.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcapi.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcdynamic.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcgroup.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcnet.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcnet.com.hk,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcprivatebank.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcinsurance.com.cn,DIRECT,extended-matching
 # Magpie
 DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
 # M-Team
@@ -72,3 +87,6 @@ DOMAIN-SUFFIX,m-team.io,DIRECT,extended-matching
 DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,manfuz.co,DIRECT,extended-matching
 DOMAIN-SUFFIX,holysalt.org,DIRECT,extended-matching
+# ZA Bank
+DOMAIN-SUFFIX,za.group,DIRECT,extended-matching
+DOMAIN-SUFFIX,zhongan.com,DIRECT,extended-matching
