@@ -68,12 +68,8 @@ DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.net,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcinnovationbanking.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcapi.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcdynamic.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcgroup.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcnet.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcnet.com.hk,DIRECT,extended-matching
+DOMAIN-SUFFIX,hsbcinnovationbanking.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcprivatebank.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
