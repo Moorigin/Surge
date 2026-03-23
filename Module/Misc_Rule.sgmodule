@@ -62,6 +62,11 @@ DOMAIN-SUFFIX,perplexity.ai,🇺🇸LAX,extended-matching
 DOMAIN-SUFFIX,sora.com,🇺🇸LAX,extended-matching
 
 # >> DIRECT
+# BOCHK
+DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,bochkonline.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,etnet.com.hk,DIRECT,extended-matching
+DOMAIN-SUFFIX,etdsinfo.com,DIRECT,extended-matching
 # ECMS
 DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
 # HSBC
@@ -72,7 +77,6 @@ DOMAIN-SUFFIX,hsbcnet.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcinnovationbanking.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcprivatebank.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbc.com.mo,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcinsurance.com.cn,DIRECT,extended-matching
