@@ -1,16 +1,16 @@
 #!category = Moorigin
 #!name = General Enhanced
-#!desc = 通用增强・2026-03-14
+#!desc = 通用增强・2026-03-23
 
 [General]
 # 跳过代理
 skip-proxy = %APPEND% captive.apple.com
 
 # 当Surge VIF处理DNS问题时,此选项要求Surge返回真正的IP地址,而不是一个假IP地址,DNS数据包将被转发到上游DNS服务器.
-always-real-ip = %APPEND% *.lan, *.local, *.direct, localhost.*.qq.com, localhost.*.weixin.qq.com, *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
+always-real-ip = %APPEND% *.direct, *.internal, *.lan, *.local, localhost.*.qq.com, localhost.*.weixin.qq.com, *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
 
 [MITM]
 # 需要解密的域名
-hostname = %APPEND% -*.facebook.com, -*.instagram.com, -*.twitter.com, -*.snssdk.com, -*.pstatp.com
+hostname = %APPEND% -*.facebook.com, -*.instagram.com, -*.twitter.com
 # 不需要解密的域名
-hostname-disabled = %APPEND% gateway.icloud.com, gateway.icloud.com.cn, weather-data.apple.com, buy.itunes.apple.com, ios.chat.openai.com
+hostname-disabled = %APPEND% buy.itunes.apple.com, gateway.icloud.com, gateway.icloud.com.cn, weather-data.apple.com, ios.chat.openai.com
