@@ -1,17 +1,26 @@
 #!category = Moorigin
 #!name = Local DNS Mapping
-#!desc = 本地DNS映射・2026-03-14
+#!desc = 本地DNS映射・2026-03-23
 
 [General]
 # 通过代理请求使用本地DNS映射结果
 use-local-host-item-for-proxy = true
 
 [Host]
+# >> Mainland
 # Alibaba
 *.1688.com = server:223.5.5.5 // 1688
 *.taobao.com = server:223.5.5.5 // 淘宝
 *.tbcache.com = server:223.5.5.5 // 淘宝 缓存
 *.tmall.com = server:223.5.5.5 // 天猫
+# Bytedance
+*.douyin.com = server:180.184.1.1 // 抖音
+*.douyinpic.com = server:180.184.1.1 // 抖音 静态资源
+*.douyinvod.com = server:180.184.1.1 // 抖音 静态资源
+*.douyinstatic.com = server:180.184.1.1 // 抖音 静态资源
+*.pstatp.com = server:180.184.1.1 // 抖音 静态资源
+*.iesdouyin.com = server:180.184.1.1 // 抖音 CDN
+*.ibytedapm.com = server:180.184.1.1 // 抖音 DAPM
 # Tencent
 *.qq.com = server:119.29.29.29 // QQ
 *.wechat.com = server:119.29.29.29 // WeChat
@@ -21,18 +30,16 @@ use-local-host-item-for-proxy = true
 *.servicewechat.com = server:119.29.29.29 // 微信小程序
 *.weixinbridge.com = server:119.29.29.29 // 微信公众号
 *.tencent.com = server:119.29.29.29 // 腾讯
-# Bytedance
-*.douyin.com = server:180.184.1.1 // 抖音
-*.douyinpic.com = server:180.184.1.1 // 抖音 静态资源
-*.douyinvod.com = server:180.184.1.1 // 抖音 静态资源
-*.douyinstatic.com = server:180.184.1.1 // 抖音 静态资源
-*.pstatp.com = server:180.184.1.1 // 抖音 静态资源
-*.iesdouyin.com = server:180.184.1.1 // 抖音 CDN
-*.ibytedapm.com = server:180.184.1.1 // 抖音 DAPM
-# System
-*.政务 = server:system
-*.gov.cn = server:system
-*.local = server:system
+
+# >> System
+# Apple
 *.apple.com = server:system
 *.icloud.com = server:system
 *.networking.apple = server:system
+# Gov
+*.政务 = server:system
+*.gov.cn = server:system
+# Local
+*.home.arpa = server:system
+*.internal = server:system
+*.local = server:system
