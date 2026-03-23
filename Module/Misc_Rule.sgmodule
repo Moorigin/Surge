@@ -80,6 +80,9 @@ DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcinsurance.com.cn,DIRECT,extended-matching
+# LongBridge
+DOMAIN-SUFFIX,longbridge.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,longbridge.sg,DIRECT,extended-matching
 # Magpie
 DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
 # M-Team
