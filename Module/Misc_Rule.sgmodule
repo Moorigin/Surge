@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-03-23
+#!desc = 杂项规则分流・2026-03-25
 
 [Rule]
 # >> LAX
@@ -81,8 +81,15 @@ DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbcinsurance.com.cn,DIRECT,extended-matching
 # LongBridge
-DOMAIN-SUFFIX,longbridge.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,longbridge.sg,DIRECT,extended-matching
+DOMAIN,quote.longbridge.global,DIRECT,extended-matching
+DOMAIN,trade.longportapp.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,lbctrl.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,lbkrs.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,wbrks.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,longportapp.cn,DIRECT,extended-matching
+DOMAIN-SUFFIX,longportapp.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,longbridgeapp.com,DIRECT,extended-matching
+DOMAIN-SUFFIX,longbridge.hk,DIRECT,extended-matching
 # Magpie
 DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
 # M-Team
