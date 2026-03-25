@@ -13,4 +13,4 @@ always-real-ip = %APPEND% *.direct, *.internal, *.lan, *.local, *.localhost, loc
 # 需要解密的域名
 hostname = %APPEND% -*.facebook.com, -*.instagram.com, -*.twitter.com
 # 不需要解密的域名
-hostname-disabled = %APPEND% buy.itunes.apple.com, gateway.icloud.com, gateway.icloud.com.cn, weather-data.apple.com, ios.chat.openai.com
+hostname-disabled = %APPEND% buy.itunes.apple.com, weather-data.apple.com, gateway.icloud.com, gateway.icloud.com.cn
