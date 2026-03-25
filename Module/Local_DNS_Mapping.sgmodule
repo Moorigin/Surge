@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Local DNS Mapping
-#!desc = 本地DNS映射・2026-03-23
+#!desc = 本地DNS映射・2026-03-25
 
 [General]
 # 通过代理请求使用本地DNS映射结果
@@ -43,3 +43,4 @@ use-local-host-item-for-proxy = true
 *.home.arpa = server:system
 *.internal = server:system
 *.local = server:system
+*.localhost = server:system
