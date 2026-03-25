@@ -3,7 +3,7 @@
 #!desc = 杂项规则分流・2026-03-25
 
 [Rule]
-# >> Nexitally
+# >> NEXITALLY
 # Bahamut
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list,NEXITALLY,extended-matching
 # Supercell
