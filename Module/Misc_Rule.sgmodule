@@ -6,8 +6,12 @@
 # >> HKG
 # Bahamut
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list,HKG,extended-matching
+# Battle
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Battle/Battle.list,HKG,extended-matching
 # Supercell
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Supercell/Supercell.list,HKG,extended-matching
+# Steam
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list,HKG,extended-matching
 
 # >> JPN
 # DMM
@@ -21,7 +25,7 @@ DOMAIN-SUFFIX,etnet.com.hk,DIRECT,extended-matching
 DOMAIN-SUFFIX,etdsinfo.com,DIRECT,extended-matching
 # ECMS
 DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
-# HSBC
+# HSBCHK
 DOMAIN-SUFFIX,hsbc,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,hsbc.net,DIRECT,extended-matching
