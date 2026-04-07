@@ -18,6 +18,10 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list,JPN,extended-matching
 
 # >> DIRECT
+# Bittorrent
+PROCESS-NAME,qBittorrent,DIRECT
+PROCESS-NAME,Transmission,DIRECT
+PROCESS-NAME,uTorrent,DIRECT
 # BOCHK
 DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,bochkonline.com,DIRECT,extended-matching
@@ -62,8 +66,3 @@ DOMAIN-SUFFIX,zafinsvc.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,zajourney.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,zaticdn.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,zhongan.com,DIRECT,extended-matching
-# qBittorrent
-PROCESS-NAME,qBittorrent,DIRECT
-# UURemote
-PROCESS-NAME,UURemote,DIRECT
-PROCESS-NAME,UURemoteDaemon,DIRECT
