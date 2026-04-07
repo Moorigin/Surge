@@ -40,7 +40,6 @@ use-local-host-item-for-proxy = true
 *.政务 = server:system
 *.gov.cn = server:system
 # Local
-*.home.arpa = server:system
 *.internal = server:system
 *.local = server:system
 *.localhost = server:system
