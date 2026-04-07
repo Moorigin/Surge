@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Local DNS Mapping
-#!desc = 本地DNS映射・2026-03-25
+#!desc = 本地DNS映射・2026-04-07
 
 [General]
 # 通过代理请求使用本地DNS映射结果
@@ -40,6 +40,6 @@ use-local-host-item-for-proxy = true
 *.政务 = server:system
 *.gov.cn = server:system
 # Local
-*.internal = server:system
+*.lan = server:system
 *.local = server:system
 *.localhost = server:system
