@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-04-07
+#!desc = 杂项规则分流・2026-04-08
 
 [Rule]
 # >> HKG
@@ -48,8 +48,6 @@ DOMAIN-SUFFIX,longportapp.cn,DIRECT,extended-matching
 DOMAIN-SUFFIX,longportapp.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,longbridgeapp.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,longbridge.hk,DIRECT,extended-matching
-# Magpie
-DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
 # M-Team
 DOMAIN-SUFFIX,m-team.cc,DIRECT,extended-matching
 DOMAIN-SUFFIX,m-team.io,DIRECT,extended-matching
