@@ -1,6 +1,6 @@
 #!category = Moorigin
 #!name = Misc Rule
-#!desc = 杂项规则分流・2026-04-08
+#!desc = 杂项规则分流・2026-04-10
 
 [Rule]
 # >> HKG
@@ -17,7 +17,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 
 # >> DIRECT
 # Bittorrent
-PROCESS-NAME,qbittorrent,DIRECT
+PROCESS-NAME,Transmission,DIRECT
 # BOCHK
 DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,bochkonline.com,DIRECT,extended-matching
