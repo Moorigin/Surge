@@ -17,9 +17,7 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 
 # >> DIRECT
 # Bittorrent
-PROCESS-NAME,qBittorrent,DIRECT
-PROCESS-NAME,Transmission,DIRECT
-PROCESS-NAME,uTorrent,DIRECT
+PROCESS-NAME,qbittorrent,DIRECT
 # BOCHK
 DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,bochkonline.com,DIRECT,extended-matching
