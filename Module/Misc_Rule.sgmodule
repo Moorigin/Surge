@@ -18,45 +18,13 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # >> DIRECT
 # Bittorrent
 PROCESS-NAME,Transmission,DIRECT
-# BOCHK
-DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,bochkonline.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,etnet.com.hk,DIRECT,extended-matching
-DOMAIN-SUFFIX,etdsinfo.com,DIRECT,extended-matching
 # ECMS
 DOMAIN-SUFFIX,ecmsglobal.com,DIRECT,extended-matching
-# HSBCHK
-DOMAIN-SUFFIX,hsbc,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbc.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbc.net,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcnet.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcinnovationbanking.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcprivatebank.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbc.com.cn,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcqh.com.cn,DIRECT,extended-matching
-DOMAIN-SUFFIX,hsbcinsurance.com.cn,DIRECT,extended-matching
-# LongBridge
-DOMAIN,quote.longbridge.global,DIRECT,extended-matching
-DOMAIN,trade.longportapp.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,lbctrl.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,lbkrs.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,wbrks.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,longportapp.cn,DIRECT,extended-matching
-DOMAIN-SUFFIX,longportapp.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,longbridgeapp.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,longbridge.hk,DIRECT,extended-matching
 # M-Team
 DOMAIN-SUFFIX,m-team.cc,DIRECT,extended-matching
 DOMAIN-SUFFIX,m-team.io,DIRECT,extended-matching
 DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,manfuz.co,DIRECT,extended-matching
 DOMAIN-SUFFIX,holysalt.org,DIRECT,extended-matching
+DOMAIN-SUFFIX,manfuz.co,DIRECT,extended-matching
 # Nexitally
 DOMAIN-SUFFIX,nxonearth.com,DIRECT,extended-matching
-# ZA Bank
-DOMAIN-SUFFIX,za.group,DIRECT,extended-matching
-DOMAIN-SUFFIX,zafinsvc.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,zajourney.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,zaticdn.com,DIRECT,extended-matching
-DOMAIN-SUFFIX,zhongan.com,DIRECT,extended-matching
