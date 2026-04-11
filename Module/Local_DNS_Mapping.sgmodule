@@ -3,19 +3,10 @@
 #!desc = 本地DNS映射・2026-04-11
 
 [General]
-# 通过代理请求使用本地DNS映射结果
+# 强制Surge使用本地映射的IP地址（来自[Host]部分）进行代理请求，而不是将域名发送到远程代理服务器进行DNS解析
 use-local-host-item-for-proxy = true
 
 [Host]
-# >> Mainland
-# Alibaba
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:223.5.5.5
-# Bytedance
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.2.2
-# Tencent
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:119.29.29.29
-
-# >> System
 # Apple
 *.apple.com = server:system
 *.icloud.com = server:system
