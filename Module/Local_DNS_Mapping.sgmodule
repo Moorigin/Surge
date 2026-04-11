@@ -2,17 +2,11 @@
 #!name = Local DNS Mapping
 #!desc = 本地DNS映射・2026-04-11
 
-[General]
-# 强制Surge使用本地映射的IP地址（来自[Host]部分）进行代理请求，而不是将域名发送到远程代理服务器进行DNS解析
-use-local-host-item-for-proxy = true
-
 [Host]
 # Apple
 *.apple.com = server:system
 *.icloud.com = server:system
-# Gov
-*.政务 = server:system
-*.gov.cn = server:system
+*.networking.apple = server:system
 # Local
 *.home.arpa = server:system
 *.internal = server:system
