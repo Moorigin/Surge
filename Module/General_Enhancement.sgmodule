@@ -6,7 +6,7 @@
 skip-proxy = %APPEND% captive.apple.com, *.ccb.com, *.abcchina.com, *.abcchina.com.cn
 
 # 此选项会要求Surge返回真实的IP地址,而不是一个虚假IP地址,DNS数据包将被转发到上游DNS服务器
-always-real-ip = %APPEND% 
+always-real-ip = %APPEND% *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
 
 [MITM]
 # 需要解密的域名
