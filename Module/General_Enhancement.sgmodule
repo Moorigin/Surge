@@ -3,7 +3,7 @@
 #!desc = 杂项规则分流・2026-04-18
 
 # 跳过代理
-skip-proxy = %APPEND% captive.apple.com, *.ccb.com, *.abcchina.com, *.abcchina.com.cn
+skip-proxy = %APPEND% *.ccb.com, *.abcchina.com, *.abcchina.com.cn
 
 # 此选项会要求Surge返回真实的IP地址,而不是一个虚假IP地址,DNS数据包将被转发到上游DNS服务器
 always-real-ip = %APPEND% *netflix*, *nflx*, e13252.dscg.akamaiedge.net, *cookielaw.org, *fast.com, *flxvpn.net, *onetrust.com, *us-west-2.amazonaws.com, *apiproxy-device-prod-nlb-*, *dualstack.apiproxy-*, *dualstack.ichnaea-web-*
