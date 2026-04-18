@@ -1,1 +1,13 @@
 
+
+# 跳过代理
+skip-proxy = %APPEND% captive.apple.com, *.ccb.com, *.abcchina.com, *.abcchina.com.cn
+
+# 此选项会要求Surge返回真实的IP地址,而不是一个虚假IP地址,DNS数据包将被转发到上游DNS服务器
+always-real-ip = %APPEND% *.home.arpa, *.internal, *.lan, *.local, *.localhost, localhost.*.qq.com, localhost.*.weixin.qq.com
+
+[MITM]
+# 需要解密的域名
+hostname = %APPEND% -*.facebook.com, -*.instagram.com, -*.twitter.com
+# 不需要解密的域名
+hostname-disabled = %APPEND% weather-data.apple.com, gateway.icloud.com, gateway.icloud.com.cn
