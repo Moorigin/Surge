@@ -15,6 +15,12 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # Pixiv
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list,JPN,extended-matching
 
+# >> PROXY
+# Application
+PROCESS-NAME,Codex,PROXY
+PROCESS-NAME,Claude,PROXY
+PROCESS-NAME,Claude Helper,PROXY
+
 # >> DIRECT
 # Application
 PROCESS-NAME,Transmission,DIRECT
