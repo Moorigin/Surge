@@ -1,6 +1,6 @@
 #!category = 🍭 Moorigin
 #!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流・2026-05-02
+#!desc = 杂项规则分流・2026-05-03
 
 [Rule]
 # >> HKG
@@ -14,21 +14,6 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 # Pixiv
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pixiv/Pixiv.list,JPN,extended-matching
-
-# >> PROXY
-# APNs
-DOMAIN-SUFFIX,push.apple.com,PROXY,extended-matching
-DOMAIN-SUFFIX,akadns.net,PROXY,extended-matching
-DOMAIN-KEYWORD,apple.com.edgekey.net,PROXY,extended-matching
-IP-CIDR,17.249.0.0/16,PROXY,no-resolve
-IP-CIDR,17.252.0.0/16,PROXY,no-resolve
-IP-CIDR,17.57.144.0/22,PROXY,no-resolve
-IP-CIDR,17.188.128.0/18,PROXY,no-resolve
-IP-CIDR,17.188.20.0/23,PROXY,no-resolve
-IP-CIDR6,2620:149:a44::/48,PROXY,no-resolve
-IP-CIDR6,2403:300:a42::/48,PROXY,no-resolve
-IP-CIDR6,2403:300:a51::/48,PROXY,no-resolve
-IP-CIDR6,2a01:b740:a42::/48,PROXY,no-resolve
 
 # >> DIRECT
 # Application
