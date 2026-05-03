@@ -17,9 +17,10 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 
 # >> DIRECT
 # Application
+PROCESS-NAME,Feishu,DIRECT
+PROCESS-NAME,Lark Helper,DIRECT
 PROCESS-NAME,Transmission,DIRECT
-# Magpie
-DOMAIN-SUFFIX,223789.xyz,DIRECT,extended-matching
+PROCESS-NAME,UURemote,DIRECT
 # M-Team
 DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,holysalt.org,DIRECT,extended-matching
