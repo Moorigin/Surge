@@ -1,6 +1,6 @@
 #!category = 🍭 Moorigin
 #!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流・2026-05-03
+#!desc = 杂项规则分流・2026-05-04
 
 [Rule]
 # >> HKG
@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,m-team.cc,DIRECT,extended-matching
 DOMAIN-SUFFIX,m-team.io,DIRECT,extended-matching
 # Nexitally
 DOMAIN-SUFFIX,nxonearth.com,DIRECT,extended-matching
+# Oyunfor
+DOMAIN-SUFFIX,oyunfor.com,DIRECT,extended-matching
