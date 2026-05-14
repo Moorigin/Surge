@@ -1,6 +1,6 @@
 #!category = 🍭 Moorigin
 #!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流・2026-05-04
+#!desc = 杂项规则分流・2026-05-14
 
 [Rule]
 # >> HKG
@@ -14,6 +14,8 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # >> DIRECT
 # Application
 PROCESS-NAME,Transmission,DIRECT
+# Emby
+DOMAIN-SUFFIX,emby.moorigin.cn,DIRECT,extended-matching
 # M-Team
 DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
 DOMAIN-SUFFIX,holysalt.org,DIRECT,extended-matching
