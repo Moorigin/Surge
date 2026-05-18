@@ -1,6 +1,6 @@
 #!category = 🍭 Moorigin
 #!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流・2026-05-15
+#!desc = 杂项规则分流・2026-05-18
 
 [Rule]
 # >> HKG
@@ -11,10 +11,19 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 
+# >> PROXY
+# Application
+PROCESS-NAME,Claude,PROXY
+PROCESS-NAME,Claude Helper,PROXY
+PROCESS-NAME,Codex,PROXY
+PROCESS-NAME,Codex Helper,PROXY
+
 # >> DIRECT
 # Application
 PROCESS-NAME,Transmission,DIRECT
-# Emby
+PROCESS-NAME,UURemote,DIRECT
+PROCESS-NAME,UURemoteServer,DIRECT
+# Moorigin
 DOMAIN-SUFFIX,moorigin.cn,DIRECT,extended-matching
 # M-Team
 DOMAIN-SUFFIX,halomt.com,DIRECT,extended-matching
