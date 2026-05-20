@@ -1,6 +1,6 @@
 #!category = 🍭 Moorigin
 #!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流・2026-05-18
+#!desc = 杂项规则分流・2026-05-20
 
 [Rule]
 # >> HKG
@@ -21,8 +21,6 @@ PROCESS-NAME,Codex Helper,PROXY
 # >> DIRECT
 # Application
 PROCESS-NAME,Transmission,DIRECT
-PROCESS-NAME,UURemote,DIRECT
-PROCESS-NAME,UURemoteServer,DIRECT
 # Moorigin
 DOMAIN-SUFFIX,moorigin.cn,DIRECT,extended-matching
 # M-Team
