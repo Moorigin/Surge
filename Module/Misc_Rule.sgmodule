@@ -11,13 +11,6 @@ RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/r
 # DMM
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 
-# >> PROXY
-# Application
-PROCESS-NAME,Claude,PROXY
-PROCESS-NAME,Claude Helper,PROXY
-PROCESS-NAME,Codex,PROXY
-PROCESS-NAME,Codex Helper,PROXY
-
 # >> DIRECT
 # Application
 PROCESS-NAME,Transmission,DIRECT
