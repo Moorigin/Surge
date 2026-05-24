@@ -8,11 +8,11 @@
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list,HKG,extended-matching
 
 # >> JPN
-# DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 # DLsite
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
+# DMM
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 
 # >> DIRECT
 # Application
