@@ -1,7 +1,7 @@
 # label: HKG
 # count: 1166
 # build: merge_rules.py
-# generated: 2026-05-24T16:54:25.635042Z
+# generated: 2026-05-24T18:22:22.436560Z
 DOMAIN,bahamut.akamaized.net
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
