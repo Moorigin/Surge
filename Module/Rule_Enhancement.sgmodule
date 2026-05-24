@@ -1,18 +1,12 @@
 #!category = 🍭 Moorigin
-#!name = 🍭 Moorigin: 🌐 Misc Rule
-#!desc = 杂项规则分流
+#!name = 🍭 Moorigin: 🌐 Rule Enhancement
+#!desc = 分流规则增强
 
 [Rule]
-# >> HKG
-# Bahamut
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list,HKG,extended-matching
-
 # >> JPN
 # DLsite
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
-# DMM
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list,JPN,extended-matching
 
 # >> DIRECT
 # Application
