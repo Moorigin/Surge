@@ -1,7 +1,7 @@
-# label: HongKong
+# label: HKG
 # count: 1166
 # build: merge_rules.py
-# generated: 2026-05-24T14:09:33.641314Z
+# generated: 2026-05-24T16:54:25.635042Z
 DOMAIN,bahamut.akamaized.net
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
