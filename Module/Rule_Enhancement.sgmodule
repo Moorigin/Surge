@@ -7,7 +7,6 @@
 # DLsite
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
-URL-REGEX,^https://[^/:]*dlsite[^/:]*\.app(?::443)?(?:/|$),JPN,extended-matching
 
 # >> DIRECT
 # Application
