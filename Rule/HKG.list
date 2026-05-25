@@ -1,23 +1,33 @@
 # label: HKG
-# count: 1166
+# count: 1189
 # build: merge_rules.py
-# generated: 2026-05-24T18:22:22.436560Z
+# generated: 2026-05-25T02:00:12.867538Z
 DOMAIN,bahamut.akamaized.net
+DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,e13252.dscg.akamaiedge.net
+DOMAIN,edge.api.brightcove.com
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN,tvbtracking.azurewebsites.net
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,flxvpn.net
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.com.au
@@ -44,8 +54,19 @@ DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,us-west-2.amazonaws.com
 DOMAIN-SUFFIX,viblast.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,youboranqs01.com
 IP-CIDR,103.87.204.0/22,no-resolve
 IP-CIDR,107.23.255.0/26,no-resolve
 IP-CIDR,108.128.160.0/23,no-resolve
@@ -1168,3 +1189,5 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 PROCESS-NAME,com.netflix.mediaclient
 USER-AGENT,Anime*
 USER-AGENT,Argo*
+USER-AGENT,encoreTVB*
+USER-AGENT,mytv*
