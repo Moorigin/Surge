@@ -10,6 +10,10 @@ sources:
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
     strip_comments: true
     trim_inline_comments: true
+  - label: "HKG"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list"
+    strip_comments: true
+    trim_inline_comments: true
 
   # - Japan
   - label: "JPN"
