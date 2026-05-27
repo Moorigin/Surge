@@ -29,32 +29,32 @@ sources:
     strip_comments: true
     trim_inline_comments: true
 
-  # - United States
-  - label: "USA"
+  # - Internet Service Provider
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "USA"
+  - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
     strip_comments: true
     trim_inline_comments: true
