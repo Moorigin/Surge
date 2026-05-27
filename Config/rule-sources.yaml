@@ -1,64 +1,6 @@
 # 每个条目就是一个来源（URL 或本地路径），并声明要合并到哪个 label
 # 同一个 label 下的多个来源将按顺序合并，并去重
 sources:
-  # - Hong Kong
-  - label: "HKG"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "HKG"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "HKG"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list"
-    strip_comments: true
-    trim_inline_comments: true
-
-  # - Japan
-  - label: "JPN"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "JPN"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "JPN"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list"
-    strip_comments: true
-    trim_inline_comments: true
-
-  # - Internet Service Provider
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "ISP"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
-    strip_comments: true
-    trim_inline_comments: true
-
   # - Mainland China
   - label: "CHN"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/115/115.list"
@@ -158,6 +100,64 @@ sources:
     trim_inline_comments: true
   - label: "CHN"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/XiaoHongShu/XiaoHongShu.list"
+    strip_comments: true
+    trim_inline_comments: true
+
+  # - Hong Kong
+  - label: "HKG"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "HKG"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "HKG"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TVB/TVB.list"
+    strip_comments: true
+    trim_inline_comments: true
+
+  # - Japan
+  - label: "JPN"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Abema/Abema.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "JPN"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "JPN"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list"
+    strip_comments: true
+    trim_inline_comments: true
+
+  # - Internet Service Provider
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Facebook/Facebook.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "ISP"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
     strip_comments: true
     trim_inline_comments: true
 
