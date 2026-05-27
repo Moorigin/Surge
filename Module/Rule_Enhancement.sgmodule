@@ -7,6 +7,8 @@
 # DLsite
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
+# FamilyMart
+DOMAIN-SUFFIX,family.co.jp,JPN,extended-matching
 
 # >> DIRECT
 # Application
