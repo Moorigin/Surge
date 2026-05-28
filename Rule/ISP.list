@@ -1,7 +1,7 @@
 # label: ISP
 # count: 861
 # build: merge_rules.py
-# generated: 2026-05-27T18:47:15.569763Z
+# generated: 2026-05-28T07:42:28.640874Z
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,graph.facebook.com
