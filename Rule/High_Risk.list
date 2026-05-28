@@ -1,7 +1,7 @@
-# label: ISP
+# label: High_Risk
 # count: 861
 # build: merge_rules.py
-# generated: 2026-05-28T07:42:28.640874Z
+# generated: 2026-05-28T12:59:59.582815Z
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,graph.facebook.com
