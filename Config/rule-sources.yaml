@@ -131,7 +131,7 @@ sources:
     strip_comments: true
     trim_inline_comments: true
 
-  # - Internet Service Provider
+  # - High Risk Control
   - label: "ISP"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
     strip_comments: true
