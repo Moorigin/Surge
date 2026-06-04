@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
 
 # >> ISP
 # Application
-PROCESS-NAME,/Applications/Codex.app/,DIRECT
+PROCESS-NAME,/Applications/Codex.app/,ISP
 
 # >> DIRECT
 # Application
