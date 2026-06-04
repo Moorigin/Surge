@@ -8,9 +8,13 @@
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
 
+# >> ISP
+# Application
+PROCESS-NAME,/Applications/Codex.app/,DIRECT
+
 # >> DIRECT
 # Application
-PROCESS-NAME,Transmission,DIRECT
+PROCESS-NAME,/Applications/Transmission.app/,DIRECT
 # Moorigin
 DOMAIN-SUFFIX,moorigin.cn,DIRECT,extended-matching
 # M-Team
