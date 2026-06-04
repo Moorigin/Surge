@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
 
 # >> ISP
 # Application
+PROCESS-NAME,/Applications/ChatGPT.app/,ISP
 PROCESS-NAME,/Applications/Codex.app/,ISP
 
 # >> DIRECT
