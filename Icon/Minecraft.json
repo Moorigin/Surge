@@ -4,51 +4,51 @@
     "icons": [
         {
             "name": "Diamond_Axe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Axe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Minecraft/Minecraft_Diamond_Axe.png"
         },
         {
             "name": "Diamond_Hoe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Hoe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Diamond_Hoe.png"
         },
         {
             "name": "Diamond_Pickaxe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Pickaxe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Diamond_Pickaxe.png"
         },
         {
             "name": "Diamond_Shovel",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Shovel.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Diamond_Shovel.png"
         },
         {
             "name": "Diamond_Spear",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Spear.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Diamond_Spear.png"
         },
         {
             "name": "Diamond_Sword",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Diamond_Sword.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Diamond_Sword.png"
         },
         {
             "name": "Netherite_Axe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Axe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Axe.png"
         },
         {
             "name": "Netherite_Hoe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Hoe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Hoe.png"
         },
         {
             "name": "Netherite_Pickaxe",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Pickaxe.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Pickaxe.png"
         },
         {
             "name": "Netherite_Shovel",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Shovel.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Shovel.png"
         },
         {
             "name": "Netherite_Spear",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Spear.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Spear.png"
         },
         {
             "name": "Netherite_Sword",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/main/Minecraft/Minecraft_Netherite_Sword.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/main/Minecraft/Minecraft_Netherite_Sword.png"
         }
     ]
 }
