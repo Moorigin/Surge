@@ -4,43 +4,43 @@
     "icons": [
         {
             "name": "CHN",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/CHN.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/CHN.png"
         },
         {
             "name": "EUR",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/EUR.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/EUR.png"
         },
         {
             "name": "DEU",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/DEU.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/DEU.png"
         },
         {
             "name": "HKG",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/HKG.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/HKG.png"
         },
         {
             "name": "JPN",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/JPN.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/JPN.png"
         },
         {
             "name": "KOR",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/KOR.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/KOR.png"
         },
         {
             "name": "MAC",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/MAC.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/MAC.png"
         },
         {
             "name": "SGP",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/SGP.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/SGP.png"
         },
         {
             "name": "TWN",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/TWN.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/TWN.png"
         },
         {
             "name": "USA",
-            "url": "https://raw.githubusercontent.com/Moorigin/Icon/master/Flag/USA.png"
+            "url": "https://raw.githubusercontent.com/Moorigin/Surge/main/Icon/Flag/USA.png"
         }
     ]
 }
