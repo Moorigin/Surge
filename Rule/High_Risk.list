@@ -1,7 +1,7 @@
 # label: High_Risk
 # count: 861
 # build: merge_rules.py
-# generated: 2026-06-08T18:49:54.267572Z
+# generated: 2026-06-09T18:44:01.848731Z
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,graph.facebook.com
