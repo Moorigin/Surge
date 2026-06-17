@@ -1,27 +1,12 @@
 # label: High_Risk
-# count: 861
+# count: 790
 # build: merge_rules.py
-# generated: 2026-06-17T03:55:02.227551Z
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
+# generated: 2026-06-17T09:11:35.866384Z
 DOMAIN,graph.facebook.com
-DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-DOMAIN,openai-api.arkoselabs.com
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,servd-anthropic-website.b-cdn.net
-DOMAIN,static.cloudflareinsights.com
-DOMAIN,trae-api-sg.mchost.guru
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
@@ -49,13 +34,11 @@ DOMAIN-SUFFIX,acmvalidations.com
 DOMAIN-SUFFIX,acmvalidationsaws.com
 DOMAIN-SUFFIX,advancediddetection.com
 DOMAIN-SUFFIX,aesworkshops.com
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
-DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,amaaozn.com
 DOMAIN-SUFFIX,amazon
 DOMAIN-SUFFIX,amazon-adsystem.com
@@ -135,8 +118,6 @@ DOMAIN-SUFFIX,amzn.asia
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amznl.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
 DOMAIN-SUFFIX,assoc-amazon.cn
@@ -146,7 +127,6 @@ DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasonepoint.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,audible.com
-DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
@@ -175,23 +155,14 @@ DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,buyingfacebooklikes.com
 DOMAIN-SUFFIX,buyoculus.com
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,bytegecko-i18n.com
-DOMAIN-SUFFIX,byteintlapi.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,careersatfb.com
 DOMAIN-SUFFIX,carstagram.com
 DOMAIN-SUFFIX,cdkworkshop.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,celebgramme.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chickstagram.com
 DOMAIN-SUFFIX,china-facebook.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,click-url.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,como-hackearfacebook.com
 DOMAIN-SUFFIX,componentkit.org
@@ -204,7 +175,6 @@ DOMAIN-SUFFIX,dotfacebook.com
 DOMAIN-SUFFIX,dotfacebook.net
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,elasticbeanstalk.com
-DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,expresswifi.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,faacebok.com
@@ -501,7 +471,6 @@ DOMAIN-SUFFIX,feacboo.com
 DOMAIN-SUFFIX,feacbook.com
 DOMAIN-SUFFIX,feacbooke.com
 DOMAIN-SUFFIX,feacebook.com
-DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,fecbbok.com
 DOMAIN-SUFFIX,fecbooc.com
 DOMAIN-SUFFIX,fecbook.com
@@ -558,16 +527,12 @@ DOMAIN-SUFFIX,hackfacebookid.com
 DOMAIN-SUFFIX,hacklang.org
 DOMAIN-SUFFIX,hhvm.com
 DOMAIN-SUFFIX,hifacebook.info
-DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,howtohackfacebook-account.com
 DOMAIN-SUFFIX,hsfacebook.com
 DOMAIN-SUFFIX,httpfacebook.com
 DOMAIN-SUFFIX,httpsfacebook.com
 DOMAIN-SUFFIX,httpwwwfacebook.com
 DOMAIN-SUFFIX,i.org
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,igsonar.com
@@ -628,13 +593,9 @@ DOMAIN-SUFFIX,instastyle.tv
 DOMAIN-SUFFIX,instgram.com
 DOMAIN-SUFFIX,intagram.com
 DOMAIN-SUFFIX,intagrm.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,internet.org
 DOMAIN-SUFFIX,intgram.com
 DOMAIN-SUFFIX,ip6.static.sl-reverse.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,kindle
 DOMAIN-SUFFIX,kindle.cn
 DOMAIN-SUFFIX,kindle.co.jp
@@ -657,7 +618,6 @@ DOMAIN-SUFFIX,kindleoasisnews.com
 DOMAIN-SUFFIX,kindleproject.com
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,klik.me
-DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,liverail.com
 DOMAIN-SUFFIX,liverail.tv
 DOMAIN-SUFFIX,llnwd.net
@@ -666,7 +626,6 @@ DOMAIN-SUFFIX,login-account.net
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,makeitopen.com
 DOMAIN-SUFFIX,markzuckerberg.com
-DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,mcrouter.net
 DOMAIN-SUFFIX,mcrouter.org
 DOMAIN-SUFFIX,media-amazon.com
@@ -677,15 +636,10 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,mobilefacebook.com
 DOMAIN-SUFFIX,moneywithfacebook.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,myfbfans.com
 DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,newsfeed.com
 DOMAIN-SUFFIX,nextstop.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,ocul.us
 DOMAIN-SUFFIX,oculus-china.com
 DOMAIN-SUFFIX,oculus.com
@@ -705,9 +659,6 @@ DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opengraphprotocol.com
 DOMAIN-SUFFIX,opengraphprotocol.org
@@ -734,16 +685,11 @@ DOMAIN-SUFFIX,rocksdb.com
 DOMAIN-SUFFIX,rocksdb.net
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,seattlespheres.com
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,siege-amazon.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,terragraph.com
 DOMAIN-SUFFIX,thefacebook.com
@@ -751,19 +697,7 @@ DOMAIN-SUFFIX,thefacebook.net
 DOMAIN-SUFFIX,thefind.com
 DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,thinkboxsoftware.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokmusic.app
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,toplayerserver.com
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,ttwebview.com
-DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,ueberamazon.de
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,wa.me
@@ -805,7 +739,6 @@ DOMAIN-SUFFIX,z.cn
 DOMAIN-SUFFIX,zappos
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
-IP-ASN,20473,no-resolve
 IP-ASN,32934,no-resolve
 IP-CIDR,108.168.176.192/26,no-resolve
 IP-CIDR,108.168.177.0/27,no-resolve
@@ -834,7 +767,6 @@ IP-CIDR,18.208.0.0/13,no-resolve
 IP-CIDR,18.232.0.0/14,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,208.43.122.128/27,no-resolve
-IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,31.13.64.0/18,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
@@ -856,10 +788,7 @@ IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
 IP-CIDR,54.93.124.31/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
-PROCESS-NAME,com.zhiliaoapp.musically
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
-USER-AGENT,TikTok*
