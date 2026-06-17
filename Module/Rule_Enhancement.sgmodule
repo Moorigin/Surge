@@ -8,18 +8,6 @@
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
 
-# >> LAX
-# Application
-PROCESS-NAME,/Applications/Claude.app/,LAX
-PROCESS-NAME,/Applications/Codex.app/,LAX
-# Apple Intelligence
-DOMAIN-SUFFIX,apple-relay.apple.com,LAX,extended-matching
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,LAX,extended-matching
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,LAX,extended-matching
-DOMAIN-SUFFIX,cp4.cloudflare.com,LAX,extended-matching
-DOMAIN-SUFFIX,guzzoni.apple.com,LAX,extended-matching
-DOMAIN-SUFFIX,smoot.apple.com,LAX,extended-matching
-
 # >> DIRECT
 # Application
 PROCESS-NAME,/Applications/Transmission.app/,DIRECT
