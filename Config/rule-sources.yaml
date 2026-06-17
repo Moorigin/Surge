@@ -131,13 +131,23 @@ sources:
     strip_comments: true
     trim_inline_comments: true
 
+  # - United States
+  - label: "United_States"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "United_States"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "United_States"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
+    strip_comments: true
+    trim_inline_comments: true
+
   # - High Risk
   - label: "High_Risk"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "High_Risk"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
     strip_comments: true
     trim_inline_comments: true
   - label: "High_Risk"
@@ -146,14 +156,6 @@ sources:
     trim_inline_comments: true
   - label: "High_Risk"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "High_Risk"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
-    strip_comments: true
-    trim_inline_comments: true
-  - label: "High_Risk"
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
     strip_comments: true
     trim_inline_comments: true
   - label: "High_Risk"
