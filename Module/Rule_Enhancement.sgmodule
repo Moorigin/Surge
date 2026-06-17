@@ -8,38 +8,17 @@
 DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
 DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
 
-# >> ISP
+# >> LAX
 # Application
-PROCESS-NAME,/Applications/Claude.app/,ISP
-PROCESS-NAME,/Applications/Codex.app/,ISP
+PROCESS-NAME,/Applications/Claude.app/,LAX
+PROCESS-NAME,/Applications/Codex.app/,LAX
 # Apple Intelligence
-DOMAIN-SUFFIX,apple-relay.apple.com,ISP,extended-matching
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,ISP,extended-matching
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,ISP,extended-matching
-DOMAIN-SUFFIX,cp4.cloudflare.com,ISP,extended-matching
-DOMAIN-SUFFIX,guzzoni.apple.com,ISP,extended-matching
-DOMAIN-SUFFIX,smoot.apple.com,ISP,extended-matching
-# IP Check
-DOMAIN-SUFFIX,ip2location.com,ISP,extended-matching
-DOMAIN-SUFFIX,ipinfo.io,ISP,extended-matching
-DOMAIN-SUFFIX,ipqualityscore.com,ISP,extended-matching
-DOMAIN-SUFFIX,maxmind.com,ISP,extended-matching
-# Shein
-DOMAIN-SUFFIX,shein.com,ISP,extended-matching
-DOMAIN-SUFFIX,shein.co.uk,ISP,extended-matching
-DOMAIN-SUFFIX,shein.com.co,ISP,extended-matching
-DOMAIN-SUFFIX,shein.com.hk,ISP,extended-matching
-DOMAIN-SUFFIX,shein.com.mx,ISP,extended-matching
-DOMAIN-SUFFIX,shein.com.vn,ISP,extended-matching
-DOMAIN-SUFFIX,shein.in,ISP,extended-matching
-DOMAIN-SUFFIX,shein.se,ISP,extended-matching
-DOMAIN-SUFFIX,shein.tw,ISP,extended-matching
-DOMAIN-SUFFIX,ltwebstatic.com,ISP,extended-matching
-# Temu
-DOMAIN-SUFFIX,temu.com,ISP,extended-matching
-DOMAIN-SUFFIX,temu.ca,ISP,extended-matching
-DOMAIN-SUFFIX,temu.com.au,ISP,extended-matching
-DOMAIN-SUFFIX,kwcdn.com,ISP,extended-matching
+DOMAIN-SUFFIX,apple-relay.apple.com,LAX,extended-matching
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,LAX,extended-matching
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,LAX,extended-matching
+DOMAIN-SUFFIX,cp4.cloudflare.com,LAX,extended-matching
+DOMAIN-SUFFIX,guzzoni.apple.com,LAX,extended-matching
+DOMAIN-SUFFIX,smoot.apple.com,LAX,extended-matching
 
 # >> DIRECT
 # Application
