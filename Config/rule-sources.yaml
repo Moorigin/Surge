@@ -131,16 +131,20 @@ sources:
     strip_comments: true
     trim_inline_comments: true
 
-  # - High Risk
-  - label: "High_Risk"
+  # - United States
+  - label: "United_States"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "High_Risk"
+  - label: "United_States"
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Gemini/Gemini.list"
+    strip_comments: true
+    trim_inline_comments: true
+  - label: "United_States"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list"
     strip_comments: true
     trim_inline_comments: true
-  - label: "High_Risk"
+  - label: "United_States"
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
     strip_comments: true
     trim_inline_comments: true
