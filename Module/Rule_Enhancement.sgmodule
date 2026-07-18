@@ -3,11 +3,6 @@
 #!desc = 分流规则增强
 
 [Rule]
-# >> JPN
-# DLsite
-DOMAIN-SUFFIX,dlsite.com,JPN,extended-matching
-DOMAIN-SUFFIX,dlsite.jp,JPN,extended-matching
-
 # >> DIRECT
 # Application
 PROCESS-NAME,/Applications/Transmission.app/,DIRECT
