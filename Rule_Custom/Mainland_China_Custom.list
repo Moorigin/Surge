@@ -2,6 +2,7 @@
 
 # Application
 PROCESS-NAME,/Applications/Transmission.app/
+PROCESS-NAME,/Applications/UURemote.app/
 # Moorigin
 DOMAIN-SUFFIX,moorigin.cn
 # M-Team
