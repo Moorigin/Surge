@@ -1,0 +1,12 @@
+# label: Mainland_China_Custom
+
+# Application
+PROCESS-NAME,/Applications/Transmission.app/
+# Moorigin
+DOMAIN-SUFFIX,moorigin.cn
+# M-Team
+DOMAIN-SUFFIX,halomt.com
+DOMAIN-SUFFIX,holysalt.org
+DOMAIN-SUFFIX,manfuz.co
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
