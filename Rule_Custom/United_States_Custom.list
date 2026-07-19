@@ -1,4 +1,7 @@
 # label: United_States_Custom
 
+# Application
+PROCESS-NAME,/Applications/ChatGPT.app/
+PROCESS-NAME,/Applications/Claude.app/
 # Magpie
 DOMAIN-SUFFIX,023168.xyz
