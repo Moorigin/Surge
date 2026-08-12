@@ -3,6 +3,9 @@
 #!desc = 分流规则增强
 
 [Rule]
-# >> DIRECT
-# Application
-PROCESS-NAME,/Applications/Transmission.app/,DIRECT
+# >> Japan
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/Japan.list,LAX,extended-matching
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule_Custom/Japan_Custom.list,LAX,extended-matching
+# >> United States
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/United_States.list,LAX,extended-matching
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule_Custom/United_States_Custom.list,LAX,extended-matching
