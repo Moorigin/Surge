@@ -1,0 +1,8 @@
+#!category = 🍭 Moorigin
+#!name = 🍭 Moorigin: 🌐 Rule Enhancement
+#!desc = 分流规则增强
+
+[Rule]
+# >> DIRECT
+# Application
+PROCESS-NAME,/Applications/Transmission.app/,DIRECT
