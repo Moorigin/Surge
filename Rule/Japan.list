@@ -1,7 +1,7 @@
 # label: Japan
 # count: 50
 # build: merge_rules.py
-# generated: 2026-08-22T18:21:20.691520Z
+# generated: 2026-08-23T18:21:24.044040Z
 DOMAIN,abematv.akamaized.net
 DOMAIN,ds-linear-abematv.akamaized.net
 DOMAIN,ds-vod-abematv.akamaized.net
