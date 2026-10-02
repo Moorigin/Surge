@@ -3,6 +3,8 @@
 #!desc = 自用分流规则增强
 
 [Rule]
+# >> Hong Kong
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule_Custom/Hong_Kong_Custom.list,🇭🇰HKG,extended-matching
 # >> Japan
 RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/Japan.list,🇯🇵JPN,extended-matching
 RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule_Custom/Japan_Custom.list,🇯🇵JPN,extended-matching
