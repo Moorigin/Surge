@@ -4,6 +4,7 @@
 
 [Rule]
 # >> Hong Kong
+RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/Hong_Kong.list,🇭🇰HKG,extended-matching
 RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule_Custom/Hong_Kong_Custom.list,🇭🇰HKG,extended-matching
 # >> Japan
 RULE-SET,https://raw.githubusercontent.com/Moorigin/Surge/main/Rule/Japan.list,🇯🇵JPN,extended-matching
