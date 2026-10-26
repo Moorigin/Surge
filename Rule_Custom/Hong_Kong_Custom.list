@@ -1,7 +1,5 @@
 # label: Hong_Kong_Custom
 
-# Application
-PROCESS-NAME,/Applications/Grok Bot.app/
 # Longbridge
 DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,lbctrl.com
