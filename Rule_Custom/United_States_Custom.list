@@ -3,5 +3,6 @@
 # Application
 PROCESS-NAME,/Applications/ChatGPT.app/
 PROCESS-NAME,/Applications/Claude.app/
+PROCESS-NAME,/Applications/Grok Bot.app/
 # Magpie
 DOMAIN-SUFFIX,023168.xyz
